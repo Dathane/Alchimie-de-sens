@@ -6,7 +6,7 @@ Bienvenue au cœur de l'*alchimie de sens*, un espace où je *distille* les note
 
 Pourquoi ce choix ? Les raisons sont détaillées [[006 Documents de travail/003 À propos/003 Pourquoi ce blog\|ici]].
 
-Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://sebastien-dathane.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
+Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://alchimie-de-sens.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
 
 | Derniers documents                                                                                                                                                | Modifié le |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
