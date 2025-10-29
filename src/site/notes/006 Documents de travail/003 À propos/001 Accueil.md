@@ -10,6 +10,7 @@ Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS
 
 | Derniers documents                                                                                                                                                | Modifié le |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/2025 10 23 - Théorie de l'évolution - généralités\|2025 10 23 - Théorie de l'évolution - généralités]]                                 | 29/10/2025 |
 | [[004 Notes permanentes/2025 10 15 - Information - chef d'entreprises\|2025 10 15 - Information - chef d'entreprises]]                                         | 29/10/2025 |
 | [[004 Notes permanentes/2025 10 15 - Rationalité limitée - généralités\|2025 10 15 - Rationalité limitée - généralités]]                                       | 29/10/2025 |
 | [[004 Notes permanentes/2025 10 17 - Lire - enjeu\|2025 10 17 - Lire - enjeu]]                                                                                 | 29/10/2025 |
@@ -19,6 +20,5 @@ Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS
 | [[004 Notes permanentes/2025 10 21 - Désinformation - généralités\|2025 10 21 - Désinformation - généralités]]                                                 | 29/10/2025 |
 | [[004 Notes permanentes/2025 10 22 - Stupidité - développement - réseaux sociaux\|2025 10 22 - Stupidité - développement - réseaux sociaux]]                   | 29/10/2025 |
 | [[004 Notes permanentes/2025 10 22 - Contrôle - big brother - évolution\|2025 10 22 - Contrôle - big brother - évolution]]                                     | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 23 - Psychologie évolutionniste - présentation\|2025 10 23 - Psychologie évolutionniste - présentation]]                       | 29/10/2025 |
 
 { .block-language-dataview}
