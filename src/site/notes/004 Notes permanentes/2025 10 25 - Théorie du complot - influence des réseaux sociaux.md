@@ -10,7 +10,7 @@ Avant la réélection de Donald Trump, plusieurs plateformes avaient entrepris d
 
 Un paradoxe persiste : une grande partie de ces théories dénonce l’influence manipulatrice des grandes entreprises, tout en s’exprimant sur des plateformes qui exploitent précisément les mécanismes les plus sophistiqués de manipulation de l’opinion.
 
-Le film _Hold-Up_, consacré à la pandémie de Covid-19, illustre parfaitement cette ambiguïté. Dénonçant un complot à l'échelle planétaire, il généra des millions de vues sur YouTube et Facebook, deux entreprises appartenant à Méta, une des entreprises les plus valorisées au monde.
+Le film _Hold-Up_, consacré à la pandémie de Covid-19, illustre parfaitement cette ambiguïté. Dénonçant un complot à l'échelle planétaire, il généra des millions de vues sur YouTube et Facebook, deux plateformes appartenant respectivement à Google et Méta, deux des entreprises les plus valorisées au monde.
 
 #### Références/ Inspirations
 [[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
