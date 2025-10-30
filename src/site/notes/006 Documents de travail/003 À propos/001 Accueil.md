@@ -11,15 +11,15 @@ Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS
 
 | Derniers documents                                                                                                                                            | Modifié le |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[004 Notes permanentes/2025 10 17 - Lecture - généralités\|2025 10 17 - Lecture - généralités]]                                                           | 29/10/2025 |
-| [[004 Notes permanentes/2023 02 03 - Luxe - relation avec le temps\|2023 02 03 - Luxe - relation avec le temps]]                                           | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 31 - Luxe - expérientiel\|2025 10 31 - Luxe - expérientiel]]                                                               | 29/10/2025 |
-| [[004 Notes permanentes/2024 01 21 - Spiritueux - craft - distilleries américaines\|2024 01 21 - Spiritueux - craft - distilleries américaines]]           | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 29 - Réseaux sociaux - déclin - analyses\|2025 10 29 - Réseaux sociaux - déclin - analyses]]                               | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 25 - Théorie du complot - influence des réseaux sociaux\|2025 10 25 - Théorie du complot - influence des réseaux sociaux]] | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 26 - Spiritueux - neutralité - historique\|2025 10 26 - Spiritueux - neutralité - historique]]                             | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 23 - Théorie de l'évolution - généralités\|2025 10 23 - Théorie de l'évolution - généralités]]                             | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 15 - Information - chef d'entreprises\|2025 10 15 - Information - chef d'entreprises]]                                     | 29/10/2025 |
-| [[004 Notes permanentes/2025 10 15 - Rationalité limitée - généralités\|2025 10 15 - Rationalité limitée - généralités]]                                   | 29/10/2025 |
+| [[004 Notes permanentes/20251031 - Luxe - expérientiel\|20251031 - Luxe - expérientiel]]                                                                   | 30/10/2025 |
+| [[004 Notes permanentes/20230203 - Luxe - relation avec le temps\|20230203 - Luxe - relation avec le temps]]                                               | 30/10/2025 |
+| [[004 Notes permanentes/20251017 - Lecture - généralités\|20251017 - Lecture - généralités]]                                                               | 30/10/2025 |
+| [[004 Notes permanentes/20251025 - Théorie du complot - influence des réseaux sociaux\|20251025 - Théorie du complot - influence des réseaux sociaux]]     | 30/10/2025 |
+| [[004 Notes permanentes/20251023 - Psychologie évolutionniste - présentation\|20251023 - Psychologie évolutionniste - présentation]]                       | 30/10/2025 |
+| [[004 Notes permanentes/20251023 - Temps - mesure - évolution\|20251023 - Temps - mesure - évolution]]                                                     | 30/10/2025 |
+| [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]                                             | 30/10/2025 |
+| [[004 Notes permanentes/20251019 - Post réalité vs post vérité - présentation\|20251019 - Post réalité vs post vérité - présentation]]                     | 30/10/2025 |
+| [[004 Notes permanentes/20251022 - Contrôle - big brother - évolution\|20251022 - Contrôle - big brother - évolution]]                                     | 30/10/2025 |
+| [[004 Notes permanentes/20251021 - Théorie du complot - illustration - programme Apollo\|20251021 - Théorie du complot - illustration - programme Apollo]] | 30/10/2025 |
 
 { .block-language-dataview}

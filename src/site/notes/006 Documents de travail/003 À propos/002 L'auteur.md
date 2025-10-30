@@ -15,6 +15,6 @@ C'est cette démarche qui m'a conduit à rédiger _« Décider dans un monde com
 
 Bien que je sois peu actif sur LinkedIn (1) ces dernières années — en désaccord avec un modèle économique et son évolution —, mon [CV reste accessible](http:www.linkedin.com/in/sébastien-dathané-501b2512) et je consulte les messages.
 
-1. [[004 Notes permanentes/2025 10 27 - LinkedIn - réseau professionnel - évolution\|2025 10 27 - LinkedIn - réseau professionnel - évolution]]
+1. [[004 Notes permanentes/20251027 - LinkedIn - réseau professionnel - évolution\|20251027 - LinkedIn - réseau professionnel - évolution]]
 ## Lien
 [[006 Documents de travail/003 À propos/001 Accueil\|001 Accueil]]
