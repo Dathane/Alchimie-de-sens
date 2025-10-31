@@ -15,7 +15,7 @@ Ses différentes définitions permettent de dessiner un contour intéressant de 
 https://www.cnrtl.fr/lexicographie/information
 1. Recueil de Documents concernant la commune et la ville de Poitiers, éd. E. Audoin, I, p. 131)
 #### Liens
-[[004 Notes permanentes/20251006 - Information - définition - application\|20251006 - Information - définition - application]]
+[[004 Notes permanentes/20251006 - Information vs données - application\|20251006 - Information vs données - application]]
 
 
 #### Commentaires

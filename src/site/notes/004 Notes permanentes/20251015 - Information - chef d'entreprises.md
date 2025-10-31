@@ -25,7 +25,7 @@ Comme le soulignait Jean Gabin dans _Le Président_ (1961) : _"On a une mauvaise
 [[003 Litterature/Veille/fr.wikiquote.org-Le Président film 1961\|fr.wikiquote.org-Le Président film 1961]]
 
 #### Liens
-[[004 Notes permanentes/20251006 - Information - définition - application\|20251006 - Information - définition - application]]
+[[004 Notes permanentes/20251006 - Information vs données - application\|20251006 - Information vs données - application]]
 [[004 Notes permanentes/20250217 - Information - difficultés\|20250217 - Information - difficultés]]
 
 #### Commentaires
