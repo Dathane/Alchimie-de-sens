@@ -3,7 +3,7 @@
 ---
 
 Mon approche s’appuie sur la méthode Zettelkasten (boîte à notes en français), explorée par le sociologue Niklas Luhmann et décrite par Sönke Ahrens dans _"Comment prendre des notes intelligentes"_ (1). 
-Cette méthode a permis à Luhmann de publier en 30 ans plus de 70 livres et plusieurs centaines d'articles dans différentes disciplines aussi variées que le droit, l'économie, l'art, l'écologie, etc., proposant "une pensée englobante de la société" (2)
+Cette méthode a permis à Luhmann de publier en 30 ans plus de 70 livres et plusieurs centaines d'articles dans différentes disciplines aussi variées que le droit, l'économie, l'art, l'écologie, etc., proposant "une pensée englobante de la société" (2,3)
 Sa méthode repose sur deux piliers : **l’extraction et la reformulation des idées** — qu’elles émanent d’un livre, d’un article ou d’une discussion — et **leur interconnexion** grâce à des liens de nature organique.
 
 Mais l'approche Zettelkasten va bien au-delà d’une simple technique : elle **transforme la manière de penser**
@@ -14,6 +14,7 @@ Pour naviguer dans ce blog, à vous de choisir : plongez dans une note au hasard
 
 1. Ahrens, S. (2022). _Comment prendre des notes intelligentes : une technique simple pour booster l'écriture, l'apprentissage et la créativité_. Editions Eyrolles.
 2. https://www.lemonde.fr/livres/article/2021/04/17/la-sociologie-epuree-de-niklas-luhmann_6077151_3260.html
+3. [[003 Litterature/Veille/fr.wikipedia.org-Niklas Luhmann\|fr.wikipedia.org-Niklas Luhmann]]
 
 ## Lien
 [[006 Documents de travail/003 À propos/001 Accueil\|001 Accueil]]

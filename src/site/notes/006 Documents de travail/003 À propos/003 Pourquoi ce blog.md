@@ -2,7 +2,7 @@
 {"dg-publish":true,"dg-path":"À propos/003 Pourquoi ce blog.md","permalink":"/a-propos/003-pourquoi-ce-blog/","dgPassFrontmatter":true}
 ---
 
-[Internet est-il mort?](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27Internet_mort) Cette théorie complotiste parmi d’autres sur les réseaux sociaux, suggère que les interactions humaines en ligne auraient disparu, remplacées par des *bots*, et que la majorité des contenus serait désormais générée par des algorithmes. 
+[Internet est-il mort?](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27Internet_mort) Cette théorie complotiste parmi d’autres sur les réseaux sociaux, suggère que les interactions humaines en ligne auraient disparu, remplacées par des *bots*, et que la [majorité des contenus serait désormais générée par des algorithmes](https://www.radiofrance.fr/franceinfo/podcasts/l-oeil-de-constance/l-oeil-de-constance-du-mardi-16-septembre-2025-8141346).
 Ce n'est pas tout à fait vrai, même si le futur semble se construire autour de cette idée.
 Il y a certes de plus en plus de machines sur internet, mais aussi d'humains. 
 Mais d'une certaine manière, l’Internet des origines n’existe plus.
