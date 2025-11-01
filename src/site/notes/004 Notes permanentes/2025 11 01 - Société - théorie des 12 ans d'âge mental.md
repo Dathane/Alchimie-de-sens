@@ -12,13 +12,10 @@ Prenez l’exemple de Donald Trump : si l’on imagine qu’il a effectivement 1
 Bien sûr, cette théorie ne se limite pas aux sphères du pouvoir. Elle trouve à s’appliquer à nombre d'excès observés sur les réseaux sociaux et aux "gens ordinaires".  
 
 Au-delà de son aspect ludique, cette théorie invite au fameux pas de côté, indispensable pour décrypter un monde parfois absurde. 
-Elle permet aussi de prendre du recul devant certaines invectives ou comportements excessives comme nous le ferions devant un adolescent en crise…
-
----
-
+Elle permet aussi de prendre du recul devant certaines invectives ou comportements excessifs comme nous le ferions face à un adolescent en crise…
 
 #### Références/ Inspirations
-[[003 Litterature/Veille/slate.fr-Et si le problème dans le monde aujourd'hui cest qu'on avait tous 12 ans d'âge mental\|slate.fr-Et si le problème dans le monde aujourd'hui cest qu'on avait tous 12 ans d'âge mental]]
+1. [[003 Litterature/Veille/slate.fr-Et si le problème dans le monde aujourd'hui cest qu'on avait tous 12 ans d'âge mental\|slate.fr-Et si le problème dans le monde aujourd'hui cest qu'on avait tous 12 ans d'âge mental]]
 
 #### Liens
 
