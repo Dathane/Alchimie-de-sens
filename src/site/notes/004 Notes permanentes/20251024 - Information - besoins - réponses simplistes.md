@@ -15,7 +15,7 @@ Or, les plateformes numériques, par leur modèle économique, ne se contentent 
 [[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
 [[003 Litterature/Veille/champsdemesreves.fr-Incomplétude heureuse\|champsdemesreves.fr-Incomplétude heureuse]]
 #### Liens
-[[004 Notes permanentes/20251010 - Réseaux sociaux - modèles économiques\|20251010 - Réseaux sociaux - modèles économiques]]
+[[004 Notes permanentes/20251010 - Plateformes numériques - modèles économiques\|20251010 - Plateformes numériques - modèles économiques]]
 
 
 #### Commentaires

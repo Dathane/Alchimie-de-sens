@@ -13,7 +13,7 @@ Dans ce constat, un paradoxe ironique : ceux qui dénoncent avec le plus de brui
 
 #### Liens
 [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]
-[[004 Notes permanentes/20251002 - Vérité vs mensonge - complot - armes inégales\|20251002 - Vérité vs mensonge - complot - armes inégales]]
+[[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]
 
 #### Commentaires
 

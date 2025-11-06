@@ -15,7 +15,7 @@ Mais aussi un travail d’investigation, une vigilance active, là où nous avon
 
 #### Références/ Inspirations
 https://www.cnrtl.fr/lexicographie/information
-1. Recueil de Documents concernant la commune et la ville de Poitiers, éd. E. Audoin, I, p. 131)
+1. 
 #### Liens
 [[004 Notes permanentes/20251006 - Information vs données - application\|20251006 - Information vs données - application]]
 

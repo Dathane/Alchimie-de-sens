@@ -3,6 +3,7 @@
 ---
 
 Herbert Simon, prix Nobel d’économie en 1978, a développé le concept de **rationalité limitée** pour expliquer comment les individus prennent des décisions dans un monde complexe et incertain. Voici les points clés de son approche :
+
 @simon1955 remet en cause le modèle classique de l’_homo economicus_, qui suppose que les individus disposent d’une information complète, calculent toutes les options possibles et choisissent toujours la solution optimale. Selon lui, cette vision est irréaliste.
 Les individus ont une capacité cognitive limitée (1).
 Ils ne peuvent pas traiter toutes les informations disponibles, ni anticiper toutes les conséquences de leurs choix. 
@@ -19,7 +20,8 @@ La rationalité pure supposerait
 - Une absence de biais ou d’influences externes
 - Une instantanéité et cohérence dans la décision
 
-Ce modèle sert surtout de référence théorique en économie et en théorie des jeux, mais il est rarement applicable en pratique. C’est pourquoi des concepts comme la rationalité limitée (Simon) ou les biais cognitifs (Kahneman, Tversky) ont été développés pour mieux décrire la prise de décision réelle.
+Ce modèle sert surtout de référence théorique en économie et en théorie des jeux, mais il est rarement applicable en pratique. 
+C’est pourquoi des concepts comme la rationalité limitée (Simon) ou les biais cognitifs (Kahneman, Tversky) ont été développés pour mieux décrire la prise de décision réelle.
 
 #### Références/ Inspirations
 [[003 Litterature/Recherche/Simon 1955 - A behavioral model of rational choice\|Simon 1955 - A behavioral model of rational choice]]

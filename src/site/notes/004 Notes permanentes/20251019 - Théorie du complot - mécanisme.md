@@ -13,7 +13,7 @@ Pourtant, leur faille majeure tient à l’incapacité humaine à préserver un 
 [[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
 #### Liens
 [[004 Notes permanentes/20251019 - Post réalité vs post vérité - présentation\|20251019 - Post réalité vs post vérité - présentation]]
-[[004 Notes permanentes/20251002 - Vérité vs mensonge - complot - armes inégales\|20251002 - Vérité vs mensonge - complot - armes inégales]]
+[[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]
 [[004 Notes permanentes/20251021 - Théorie du complot - illustration - programme Apollo\|20251021 - Théorie du complot - illustration - programme Apollo]]
 #### Commentaires
 
