@@ -9,17 +9,17 @@ Pourquoi ce choix ? Les raisons sont détaillées [[006 Documents de travail/003
 
 Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://alchimie-de-sens.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
 
-| Derniers documents                                                                                                                                    | Modifié le |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[004 Notes permanentes/2025 11 01 - Société - théorie des 12 ans d'âge mental\|2025 11 01 - Société - théorie des 12 ans d'âge mental]]           | 02/11/2025 |
-| [[004 Notes permanentes/2025 11 03 - Attention - mesure\|2025 11 03 - Attention - mesure]]                                                         | 02/11/2025 |
-| [[004 Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines\|20240121 - Spiritueux - craft - distilleries américaines]]       | 02/11/2025 |
-| [[004 Notes permanentes/2025 11 02 - Plateforme numérique - merdification - constat\|2025 11 02 - Plateforme numérique - merdification - constat]] | 01/11/2025 |
-| [[004 Notes permanentes/20251030 - PME vs Grands Groupes - fonds propres\|20251030 - PME vs Grands Groupes - fonds propres]]                       | 01/11/2025 |
-| [[004 Notes permanentes/20251023 - Temps - ressource - actif economique\|20251023 - Temps - ressource - actif economique]]                         | 01/11/2025 |
-| [[004 Notes permanentes/20251022 - Contrôle - big brother - évolution\|20251022 - Contrôle - big brother - évolution]]                             | 01/11/2025 |
-| [[004 Notes permanentes/20251023 - Information - définition - éthymologie\|20251023 - Information - définition - éthymologie]]                     | 01/11/2025 |
-| [[004 Notes permanentes/20251031 - Croyance - évolution\|20251031 - Croyance - évolution]]                                                         | 31/10/2025 |
-| [[004 Notes permanentes/20251006 - Information vs données - application\|20251006 - Information vs données - application]]                         | 31/10/2025 |
+| Derniers documents                                                                                                                                                                      | Modifié le |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines\|20240121 - Spiritueux - craft - distilleries américaines]]                                         | 06/11/2025 |
+| [[004 Notes permanentes/20251023 - Scotch whisky vs Cognac - crises - comparaison\|20251023 - Scotch whisky vs Cognac - crises - comparaison]]                                       | 06/11/2025 |
+| [[004 Notes permanentes/20230203 - Luxe - relation avec le temps\|20230203 - Luxe - relation avec le temps]]                                                                         | 06/11/2025 |
+| [[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]                 | 06/11/2025 |
+| [[004 Notes permanentes/20251010 - Plateformes numériques - modèles économiques\|20251010 - Plateformes numériques - modèles économiques]]                                           | 06/11/2025 |
+| [[004 Notes permanentes/20251015 - Rationalité limitée - généralités\|20251015 - Rationalité limitée - généralités]]                                                                 | 06/11/2025 |
+| [[004 Notes permanentes/20251103 - Biais cognitifs - biais d'autorité\|20251103 - Biais cognitifs - biais d'autorité]]                                                               | 06/11/2025 |
+| [[004 Notes permanentes/20251104 - Nudge - généralités\|20251104 - Nudge - généralités]]                                                                                             | 06/11/2025 |
+| [[004 Notes permanentes/20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités\|20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités]] | 06/11/2025 |
+| [[004 Notes permanentes/20251108 - Biais cognitifs - biais rétrospectif\|20251108 - Biais cognitifs - biais rétrospectif]]                                                           | 06/11/2025 |
 
 { .block-language-dataview}
