@@ -14,7 +14,10 @@ Ce mécanisme alimente le biais de confirmation, cette tendance à rechercher ce
 
 Mais les réseaux sociaux sont en danger.
 Depuis 2022, on note un déclin des visites avec de plus en plus d'internautes qui désertent ces réseaux.
-On reproche aux plateformes délaisser les interactions sociales au profit du doomscrolling, à base de distraction et d'angoisse. On est dans la [[004 Notes permanentes/20251102 - Plateforme numérique - merdification - constat\|"merdification"]] avec des réseaux de plus en plus chronophages, addictifs et anesthésiantes pour capter notre attention 
+On reproche aux plateformes délaisser les interactions sociales au profit du doomscrolling, à base de distraction et d'angoisse. On est dans la [[004 Notes permanentes/20251102 - Plateforme numérique - merdification - constat\|"merdification"]] avec des réseaux de plus en plus chronophages, addictifs et anesthésiantes pour capter notre attention.
+
+Un des défis que doivent relever les réseaux sociaux est de trouver toujours plus de volume de données, rapidement et avec une variété (3 V).
+Pour cela, il faut proposer toujours plus de contenu émotionnel et accrocheur pour maintenir la dose d'addiction de l'internaute et donc continuer à dégrader la qualité du contenu à disposition.
 
 L'objectif de ces sites n'est plus la dimension sociale mais de chercher à nous maintenir le plus longtemps et souvent possible. (2)
 

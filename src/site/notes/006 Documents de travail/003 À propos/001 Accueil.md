@@ -9,17 +9,17 @@ Pourquoi ce choix ? Les raisons sont détaillées [[006 Documents de travail/003
 
 Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://alchimie-de-sens.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
 
-| Derniers documents                                                                                                                                                                      | Modifié le |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[004 Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines\|20240121 - Spiritueux - craft - distilleries américaines]]                                         | 06/11/2025 |
-| [[004 Notes permanentes/20251023 - Scotch whisky vs Cognac - crises - comparaison\|20251023 - Scotch whisky vs Cognac - crises - comparaison]]                                       | 06/11/2025 |
-| [[004 Notes permanentes/20230203 - Luxe - relation avec le temps\|20230203 - Luxe - relation avec le temps]]                                                                         | 06/11/2025 |
-| [[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]                 | 06/11/2025 |
-| [[004 Notes permanentes/20251010 - Plateformes numériques - modèles économiques\|20251010 - Plateformes numériques - modèles économiques]]                                           | 06/11/2025 |
-| [[004 Notes permanentes/20251015 - Rationalité limitée - généralités\|20251015 - Rationalité limitée - généralités]]                                                                 | 06/11/2025 |
-| [[004 Notes permanentes/20251103 - Biais cognitifs - biais d'autorité\|20251103 - Biais cognitifs - biais d'autorité]]                                                               | 06/11/2025 |
-| [[004 Notes permanentes/20251104 - Nudge - généralités\|20251104 - Nudge - généralités]]                                                                                             | 06/11/2025 |
-| [[004 Notes permanentes/20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités\|20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités]] | 06/11/2025 |
-| [[004 Notes permanentes/20251108 - Biais cognitifs - biais rétrospectif\|20251108 - Biais cognitifs - biais rétrospectif]]                                                           | 06/11/2025 |
+| Derniers documents                                                                                                                                                                        | Modifié le |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses\|20251029 - Réseaux sociaux - déclin - analyses]]                                                               | 12/11/2025 |
+| [[004 Notes permanentes/20251105 - Captologie - généralités\|20251105 - Captologie - généralités]]                                                                                     | 12/11/2025 |
+| [[004 Notes permanentes/20251121 - Peur vs Anxiété - comparaison\|20251121 - Peur vs Anxiété - comparaison]]                                                                           | 12/11/2025 |
+| [[004 Notes permanentes/20251118 - Internet - de la société d'information à l'économie de l'attention\|20251118 - Internet - de la société d'information à l'économie de l'attention]] | 10/11/2025 |
+| [[004 Notes permanentes/20251010 - Plateformes numériques - modèles économiques\|20251010 - Plateformes numériques - modèles économiques]]                                             | 10/11/2025 |
+| [[004 Notes permanentes/20251119 - Echelle de valeur - rémunération - rationalité\|20251119 - Echelle de valeur - rémunération - rationalité]]                                         | 10/11/2025 |
+| [[004 Notes permanentes/20251116 - Plateforme numérique - oligopole - construction - effets\|20251116 - Plateforme numérique - oligopole - construction - effets]]                     | 10/11/2025 |
+| [[004 Notes permanentes/20251115 - Moteurs de recherche vs moteurs de réponses - analyse\|20251115 - Moteurs de recherche vs moteurs de réponses - analyse]]                           | 10/11/2025 |
+| [[004 Notes permanentes/20231219 - Innovation - rupture vs incrémentale\|20231219 - Innovation - rupture vs incrémentale]]                                                             | 10/11/2025 |
+| [[004 Notes permanentes/20251103 - Attention - mesure\|20251103 - Attention - mesure]]                                                                                                 | 10/11/2025 |
 
 { .block-language-dataview}

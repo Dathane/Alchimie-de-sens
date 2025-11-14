@@ -14,7 +14,7 @@ Les plateformes numériques sont très conscientes de cette information. Elles n
 #### Liens
 [[004 Notes permanentes/20251019 - Attention - ressource précieuse\|20251019 - Attention - ressource précieuse]]
 [[004 Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses\|20251029 - Réseaux sociaux - déclin - analyses]]
-
+[[004 Notes permanentes/20251113 - Données personnelles - valeurs\|20251113 - Données personnelles - valeurs]]
 #### Commentaires
 
 

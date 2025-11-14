@@ -12,7 +12,7 @@ Malgré ces réserves, elle demeure une approche convaincante pour donner du sen
 
 #### Références/ Inspirations
 [[003 Litterature/Veille/Fellows et Battey 2015 - L'évolution en 30 secondes\|Fellows et Battey 2015 - L'évolution en 30 secondes]]
-[[003 Litterature/Recherche/Cosmides et Tooby 1993 - Evolutionary Psychology A Primer\|Cosmides et Tooby 1993 - Evolutionary Psychology A Primer]]
+[[001 Sources/Images/Recherche/Cosmides et Tooby 1993 - Evolutionary Psychology A Primer\|Cosmides et Tooby 1993 - Evolutionary Psychology A Primer]]
 [[003 Litterature/Veille/fr.wikipedia.org-Psychologie évolutionniste\|fr.wikipedia.org-Psychologie évolutionniste]]
 [[003 Litterature/Veille/Psychologie évolutionniste  lecerclepsy\|Psychologie évolutionniste  lecerclepsy]]
 

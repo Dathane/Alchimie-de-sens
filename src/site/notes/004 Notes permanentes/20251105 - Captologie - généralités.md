@@ -12,7 +12,7 @@ Pour décrypter ces comportements, il a fallu concevoir des interfaces homme-mac
 [[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
-
+[[004 Notes permanentes/20251121 - Peur vs Anxiété - comparaison\|20251121 - Peur vs Anxiété - comparaison]]
 
 
 #### Commentaires

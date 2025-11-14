@@ -25,7 +25,7 @@ C'est vraiment moi qui décide (2008) de Dan Ariely
 [[003 Litterature/Veille/note de lecture - c'est (vraiment) moi qui décide\|note de lecture - c'est (vraiment) moi qui décide]]
 [[003 Litterature/Veille/Madoff - The Monster of Wall Street\|Madoff - The Monster of Wall Street]]
 [[003 Litterature/Veille/Scienceshumaines-Y a t'il une psychologie des marchés\|Scienceshumaines-Y a t'il une psychologie des marchés]]
-[[003 Litterature/Recherche/Skouras et al. 2005 - Economics and marketing on pricing how and why do they differ\|Skouras et al. 2005 - Economics and marketing on pricing how and why do they differ]]
+[[001 Sources/Images/Recherche/Skouras et al. 2005 - Economics and marketing on pricing how and why do they differ\|Skouras et al. 2005 - Economics and marketing on pricing how and why do they differ]]
 
 #### Notes précédentes
 
