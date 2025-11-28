@@ -13,7 +13,7 @@ Quant au _"réseau"_, il est souvent artificiel — composé de contacts que l�
 À l’instar des autres géants du numérique, LinkedIn a sacrifié son essence en accédant à un statut monopolistique. L’esprit originel — un espace dédié aux échanges professionnels de qualité — s’est dilué dans un modèle économique obsédé par la captation de l’attention.
 
 #### Références/ Inspirations
-1. [[003 Litterature/Veille/lemonde.fr-Comment LinkedIn a transformé nos vies en entretien dembauche permanent\|003 Litterature/Veille/lemonde.fr-Comment LinkedIn a transformé nos vies en entretien dembauche permanent]]
+1. [[003 Litterature/Veille/lemonde.fr-Comment LinkedIn a transformé nos vies en entretien dembauche permanent\|lemonde.fr-Comment LinkedIn a transformé nos vies en entretien dembauche permanent]]
 
 #### Liens
 

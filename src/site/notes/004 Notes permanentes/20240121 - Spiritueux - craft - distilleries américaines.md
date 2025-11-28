@@ -1,5 +1,5 @@
 ---
-{"tags":["sens"],"dg-publish":true,"dg-path":"Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines.md","permalink":"/notes-permanentes/20240121-spiritueux-craft-distilleries-americaines/","dgPassFrontmatter":true}
+{"tags":null,"dg-publish":true,"dg-path":"Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines.md","permalink":"/notes-permanentes/20240121-spiritueux-craft-distilleries-americaines/","dgPassFrontmatter":true}
 ---
 
 Les États-Unis abritent près de 2 800 distilleries, dominées en nombre par la Californie, où l'on observe une forte augmentation de la production d'agave, et le Kentucky, berceau du Bourbon. (1)
@@ -23,7 +23,7 @@ Malgré leur faible part de marché, ces distilleries luttent pour leur survie, 
 
 #### Références/ Inspirations
 1. [[003 Litterature/Veille/vinepair.com-Record 11,4 Million Barrels of Bourbon Aging in Kentucky This Year Enough for Billions of Bottles\|vinepair.com-Record 11,4 Million Barrels of Bourbon Aging in Kentucky This Year Enough for Billions of Bottles]]
-2. [vinepair.com-DISCUS US Spirit Exports Hit Record-Breaking 206 Billion in 2022](../vinepair.com-DISCUS%20US%20Spirit%20Exports%20Hit%20Record-Breaking%20206%20Billion%20in%202022.md)
+2. [vinepair.com-DISCUS US Spirit Exports Hit Record-Breaking 206 Billion in 2022](vinepair.com-DISCUS%20US%20Spirit%20Exports%20Hit%20Record-Breaking%20206%20Billion%20in%202022.md)
 3. [[003 Litterature/Veille/2023-craft spirits data project\|2023-craft spirits data project]]
 4. 
 #### Notes précédentes

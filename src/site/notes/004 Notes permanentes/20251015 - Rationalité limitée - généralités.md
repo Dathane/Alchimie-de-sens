@@ -24,7 +24,7 @@ Ce modèle sert surtout de référence théorique en économie et en théorie de
 C’est pourquoi des concepts comme la rationalité limitée (Simon) ou les biais cognitifs (Kahneman, Tversky) ont été développés pour mieux décrire la prise de décision réelle.
 
 #### Références/ Inspirations
-[[001 Sources/Images/Recherche/Simon 1955 - A behavioral model of rational choice\|Simon 1955 - A behavioral model of rational choice]]
+[[003 Litterature/Recherche/Simon 1955 - A behavioral model of rational choice\|Simon 1955 - A behavioral model of rational choice]]
 [[001 Sources/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
 
 #### Liens

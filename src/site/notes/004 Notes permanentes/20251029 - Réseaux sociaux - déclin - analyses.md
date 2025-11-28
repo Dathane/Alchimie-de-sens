@@ -22,7 +22,7 @@ Ce qui oblige à douter sur le fait que 2025 marque le début de la fin des rés
 
 #### Références/ Inspirations
 [[003 Litterature/Veille/ft.com-Have we passed peak social media\|ft.com-Have we passed peak social media]]
-[[001 Sources/Veille/lemonde.fr-Comment Donald Trump repousse les limites de loutrance grâce à lIA\|lemonde.fr-Comment Donald Trump repousse les limites de loutrance grâce à lIA]]
+[[003 Litterature/Veille/lemonde.fr-Comment Donald Trump repousse les limites de loutrance grâce à lIA\|lemonde.fr-Comment Donald Trump repousse les limites de loutrance grâce à lIA]]
 [[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 #### Liens
 

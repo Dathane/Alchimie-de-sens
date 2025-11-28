@@ -21,8 +21,8 @@ Ce glissement d’un système de recherche à un système de réponse contribue 
 En externalisant notre connaissance vers circuits en silicone bien plus efficace pour traiter des millions d'informations, nous risquons de déléguer une partie essentielle de notre capacité à réfléchir et à nous engager avec le monde.
 
 #### Références/ Inspirations
-1. [[001 Sources/Veille/outilsfroids.net-Investigation et IA vers une nouvelle ère de la recherche dinformation\|outilsfroids.net-Investigation et IA vers une nouvelle ère de la recherche dinformation]]
-2. [[001 Sources/Veille/lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT\|lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT]]
+1. [[003 Litterature/Veille/outilsfroids.net-Investigation et IA vers une nouvelle ère de la recherche dinformation\|outilsfroids.net-Investigation et IA vers une nouvelle ère de la recherche dinformation]]
+2. [[003 Litterature/Veille/lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT\|lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT]]
 #### Liens
 
 

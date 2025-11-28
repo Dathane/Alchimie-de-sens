@@ -7,7 +7,7 @@
 Comment le monde a pu si mal tourner pour offrir une telle somme à un seul individu, fusse t'il génial ? 
 
 #### Références/ Inspirations
-[[001 Sources/Veille/lemonde.fr-Mille milliards de dollars dans Le Monde de la valeur de l humanité en 1952 à la rémunération d Elon Musk\|lemonde.fr-Mille milliards de dollars dans Le Monde de la valeur de l humanité en 1952 à la rémunération d Elon Musk]]
+[[003 Litterature/Veille/lemonde.fr-Mille milliards de dollars dans Le Monde de la valeur de l humanité en 1952 à la rémunération d Elon Musk\|lemonde.fr-Mille milliards de dollars dans Le Monde de la valeur de l humanité en 1952 à la rémunération d Elon Musk]]
 
 #### Liens
 

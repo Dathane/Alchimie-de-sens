@@ -9,17 +9,17 @@ Pourquoi ce choix ? Les raisons sont détaillées [[006 Documents de travail/003
 
 Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://alchimie-de-sens.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
 
-| Derniers documents                                                                                                                                                                        | Modifié le |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[004 Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses\|20251029 - Réseaux sociaux - déclin - analyses]]                                                               | 12/11/2025 |
-| [[004 Notes permanentes/20251105 - Captologie - généralités\|20251105 - Captologie - généralités]]                                                                                     | 12/11/2025 |
-| [[004 Notes permanentes/20251121 - Peur vs Anxiété - comparaison\|20251121 - Peur vs Anxiété - comparaison]]                                                                           | 12/11/2025 |
-| [[004 Notes permanentes/20251118 - Internet - de la société d'information à l'économie de l'attention\|20251118 - Internet - de la société d'information à l'économie de l'attention]] | 10/11/2025 |
-| [[004 Notes permanentes/20251010 - Plateformes numériques - modèles économiques\|20251010 - Plateformes numériques - modèles économiques]]                                             | 10/11/2025 |
-| [[004 Notes permanentes/20251119 - Echelle de valeur - rémunération - rationalité\|20251119 - Echelle de valeur - rémunération - rationalité]]                                         | 10/11/2025 |
-| [[004 Notes permanentes/20251116 - Plateforme numérique - oligopole - construction - effets\|20251116 - Plateforme numérique - oligopole - construction - effets]]                     | 10/11/2025 |
-| [[004 Notes permanentes/20251115 - Moteurs de recherche vs moteurs de réponses - analyse\|20251115 - Moteurs de recherche vs moteurs de réponses - analyse]]                           | 10/11/2025 |
-| [[004 Notes permanentes/20231219 - Innovation - rupture vs incrémentale\|20231219 - Innovation - rupture vs incrémentale]]                                                             | 10/11/2025 |
-| [[004 Notes permanentes/20251103 - Attention - mesure\|20251103 - Attention - mesure]]                                                                                                 | 10/11/2025 |
+| Derniers documents                                                                                                                                                                                                          | Modifié le |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/20251102 - Plateforme numérique - merdification - constat\|20251102 - Plateforme numérique - merdification - constat]]                                                                           | 27/11/2025 |
+| [[004 Notes permanentes/20250811 - Boissons alcoolisées - classification agricole vs industrielle - Europe - critiques\|20250811 - Boissons alcoolisées - classification agricole vs industrielle - Europe - critiques]] | 27/11/2025 |
+| [[004 Notes permanentes/20250519 - Spiritueux - production - semi-industriel - débat\|20250519 - Spiritueux - production - semi-industriel - débat]]                                                                     | 27/11/2025 |
+| [[004 Notes permanentes/20230816 - Spirits Valley - présentation\|20230816 - Spirits Valley - présentation]]                                                                                                             | 27/11/2025 |
+| [[004 Notes permanentes/20251019 - Attention - ressource précieuse\|20251019 - Attention - ressource précieuse]]                                                                                                         | 26/11/2025 |
+| [[004 Notes permanentes/20251128 - Intelligence artificielle générative - utilisation - conseil\|20251128 - Intelligence artificielle générative - utilisation - conseil]]                                               | 26/11/2025 |
+| [[004 Notes permanentes/20251129 - Intelligence artificielle - musique - confiance\|20251129 - Intelligence artificielle - musique - confiance]]                                                                         | 26/11/2025 |
+| [[004 Notes permanentes/20251124 - Intelligence artificielle - anthropomorphisme\|20251124 - Intelligence artificielle - anthropomorphisme]]                                                                             | 26/11/2025 |
+| [[004 Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines\|20240121 - Spiritueux - craft - distilleries américaines]]                                                                             | 26/11/2025 |
+| [[004 Notes permanentes/20251123 - Spiritueux sans alcool - confusion - règlementation\|20251123 - Spiritueux sans alcool - confusion - règlementation]]                                                                 | 26/11/2025 |
 
 { .block-language-dataview}

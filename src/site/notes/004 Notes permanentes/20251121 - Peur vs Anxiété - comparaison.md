@@ -10,7 +10,7 @@ Notre époque semble davantage marquée par l’anxiété que par la peur au sen
 
 
 #### Références/ Inspirations
-[[001 Sources/Veille/slate.fr-La peur est un héritage de notre instinct de survie ancestral est-elle toujours utile aujourdhui\|slate.fr-La peur est un héritage de notre instinct de survie ancestral est-elle toujours utile aujourdhui]]
+[[003 Litterature/Veille/slate.fr-La peur est un héritage de notre instinct de survie ancestral est-elle toujours utile aujourdhui\|slate.fr-La peur est un héritage de notre instinct de survie ancestral est-elle toujours utile aujourdhui]]
 
 #### Liens
 [[004 Notes permanentes/20251105 - Captologie - généralités\|20251105 - Captologie - généralités]]

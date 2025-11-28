@@ -11,9 +11,9 @@ Selon d'autres auteurs, la valeur propose une version statique qui peut s'évalu
 En realité, selon @vatin2013, la valorisation relève plutôt d'un processus social institutionnalisé. 
 
 #### Références/ Inspirations
-[[001 Sources/Images/Recherche/Vatin 2013 - Valuation as Evaluating and Valorizing\|Vatin 2013 - Valuation as Evaluating and Valorizing]]
-[[001 Sources/Images/Recherche/Dewey 2008 - La théorie de la valuation\|Dewey 2008 - La théorie de la valuation]]
-[[001 Sources/Images/Recherche/Desmarteau 2017 - La création de valeur glas ou Graal\|Desmarteau 2017 - La création de valeur glas ou Graal]]
+[[003 Litterature/Recherche/Vatin 2013 - Valuation as Evaluating and Valorizing\|Vatin 2013 - Valuation as Evaluating and Valorizing]]
+[[003 Litterature/Recherche/Dewey 2008 - La théorie de la valuation\|Dewey 2008 - La théorie de la valuation]]
+[[003 Litterature/Recherche/Desmarteau 2017 - La création de valeur glas ou Graal\|Desmarteau 2017 - La création de valeur glas ou Graal]]
 
 #### Nord (origine)
 

@@ -8,9 +8,9 @@ On peut se demander si les cahiers des charges des AOC et IGP ne favorisent pas 
 (a compléter avec [[004 Notes permanentes 1/2024 07 08 - Réglementation - IG - enjeux - limites\|004 Notes permanentes 1/2024 07 08 - Réglementation - IG - enjeux - limites]])
 
 #### Références/ Inspirations
-[[001 Sources/Images/Recherche/Chouvy 2022 - Why the concept of terroir matters for drug cannabis production\|Chouvy 2022 - Why the concept of terroir matters for drug cannabis production]]
-[[001 Sources/Images/Recherche/Casabianca et al. 2006 - Terroir et Typicité Propositions de définitions pour deux notions essentielles à l’appréhension des Indications Géographiques et du développement durable\|Casabianca et al. 2006 - Terroir et Typicité Propositions de définitions pour deux notions essentielles à l’appréhension des Indications Géographiques et du développement durable]]
-[[001 Sources/Images/Recherche/Lotti 2010 - The commoditization of products and taste - Slow Food and the conservation of agrobiodiversity\|Lotti 2010 - The commoditization of products and taste - Slow Food and the conservation of agrobiodiversity]]
+[[003 Litterature/Recherche/Chouvy 2022 - Why the concept of terroir matters for drug cannabis production\|Chouvy 2022 - Why the concept of terroir matters for drug cannabis production]]
+[[003 Litterature/Recherche/Casabianca et al. 2006 - Terroir et Typicité Propositions de définitions pour deux notions essentielles à l’appréhension des Indications Géographiques et du développement durable\|Casabianca et al. 2006 - Terroir et Typicité Propositions de définitions pour deux notions essentielles à l’appréhension des Indications Géographiques et du développement durable]]
+[[003 Litterature/Recherche/Lotti 2010 - The commoditization of products and taste - Slow Food and the conservation of agrobiodiversity\|Lotti 2010 - The commoditization of products and taste - Slow Food and the conservation of agrobiodiversity]]
 
 #### Nord (origine)
 

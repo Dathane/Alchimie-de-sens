@@ -6,6 +6,7 @@ Si la Silicon Valley incarne l’épicentre de l’innovation technologique, ell
 
 Au commencement, les acteurs se multiplient. Ils rivalisent par la qualité de leurs services pour s’imposer sur le marché. Les investisseurs, prêts à accepter des pertes initiales, parient sur les entreprises les plus prometteuses. Les géants du numérique, sans exception, ont débuté leur ascension en accumulant des déficits colossaux. 
 L’enjeu ? Construire une infrastructure coûteuse et conquérir le marché en proposant des services gratuits ou à perte, avec une promesse : ces sacrifices financiers se transformeront en profits considérables une fois le monopole ou l’oligopole installé.
+Même si les États-Unis ont décidé de reprendre le contrôle, les jugements récents restent favorables au maintien de ces situations d'oligolopole, comme Meta en 2025 (2)
 À ce stade, le client n’est plus la priorité — il est captif. Même les entreprises qui dépendent de ces plateformes utilisées comme régies publicitaires, perdent leur influence, victime de la [[004 Notes permanentes/20251102 - Plateforme numérique - merdification - constat\|"merdification"]] du système. Seuls les actionnaires pionniers (et les dirigeants historiques) bénéficient alors d’une rente juteuse, fruit de leur prise de risque initiale.
 
 Les sociétés en intelligence artificielle reproduisent aujourd’hui ce schéma. 
@@ -16,7 +17,8 @@ Ironie de l’histoire : ces mêmes institutions, sauvé en dépit de leur compo
 Mais la promesse d'un immense gain - et la cupidité - rend précisément une partie des acteurs économiques irrationnels et irresponsables, notamment des grandes banques qui financent lourdement ces infrastructures.  
 
 #### Références/ Inspirations
-1. [[001 Sources/Veille/lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT\|lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT]]
+1. [[003 Litterature/Veille/lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT\|lemonde.fr-les doutes s'accumulent sur le modèle économique de l'entreprise derrière ChatGPT]]
+2. [[004 Notes permanentes/20251116 - Plateforme numérique - oligopole - construction - effets\|20251116 - Plateforme numérique - oligopole - construction - effets]]
 
 #### Liens
 [[004 Notes permanentes/20251102 - Plateforme numérique - merdification - constat\|20251102 - Plateforme numérique - merdification - constat]]
