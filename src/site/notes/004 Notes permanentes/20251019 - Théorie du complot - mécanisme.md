@@ -8,6 +8,7 @@ Leur force réside en partie dans un constat (qui s'avère exact) : réfuter un 
 
 Pourtant, leur faille majeure tient à l’incapacité humaine à préserver un secret d’une telle envergure. Si le mensonge peut se propager rapidement, la vérité, bien que plus lente à émerger, finit toujours par s’imposer. Qu’un individu garde un secret toute sa vie reste plausible ; en revanche, une conspiration institutionnelle ou mondiale ne saurait longtemps échapper aux regards. Prenons l’exemple des missions lunaires : pour que le complot tienne, il faudrait que les douze astronautes ayant foulé le sol lunaire, ainsi que le million de personnes impliqué dans ces missions, aient maintenu ce mensonge jusqu’à leur dernier souffle, mentant éhontément à des proches fiers de leur père, grand-père, etc.
 
+
 #### Références/ Inspirations
 [[003 Litterature/Veille/radiofrance.fr-Gérald Bronner La post-réalité est l étape supérie4ure de la post-vérité\|radiofrance.fr-Gérald Bronner La post-réalité est l étape supérie4ure de la post-vérité]]
 [[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
@@ -16,7 +17,6 @@ Pourtant, leur faille majeure tient à l’incapacité humaine à préserver un 
 [[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]
 [[004 Notes permanentes/20251021 - Théorie du complot - illustration - programme Apollo\|20251021 - Théorie du complot - illustration - programme Apollo]]
 #### Commentaires
-
 
 
 #### Date

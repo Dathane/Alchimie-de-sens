@@ -6,14 +6,15 @@ L’essor des réseaux sociaux a offert aux théories complotistes (chercher une
 
 Une simple recherche suffit désormais pour identifier des communautés actives et influentes. L’adhésion à ces théories confère à leurs membres un sentiment de valorisation et d’appartenance.
 
-Avant la réélection de Donald Trump, plusieurs plateformes avaient entrepris de limiter la diffusion des fake news et de la désinformation, en instaurant des mesures de modération. Mais cette dynamique fut de courte durée. Avec le retour de Trump, adepte de la post-vérité et des « faits alternatifs », les géants du numérique ont en grande partie abandonné leurs efforts de régulation. Leur priorité est désormais de maximiser leur modèle économique, privilégiant les contenus polarisants — et donc lucratifs — aux dépens d’une information équilibrée et nuancée.
+Avant la réélection de Donald Trump, plusieurs plateformes avaient entrepris de limiter la diffusion des fake news et de la désinformation, en instaurant des mesures de modération. Mais cette dynamique fut de courte durée. Avec le retour de Trump, adepte de la post-vérité et des « faits alternatifs » (expression de 2017 de Kellyanne Conway, conseillère de Donald Trump - 2), les géants du numérique ont en grande partie abandonné leurs efforts de régulation. Leur priorité est désormais de maximiser leur modèle économique, privilégiant les contenus polarisants — et donc lucratifs — aux dépens d’une information équilibrée et nuancée.
 
 Un paradoxe persiste : une grande partie de ces théories dénonce l’influence manipulatrice des grandes entreprises, tout en s’exprimant sur des plateformes qui exploitent précisément les mécanismes les plus sophistiqués de manipulation de l’opinion.
 
 Le film _Hold-Up_, consacré à la pandémie de Covid-19, illustre parfaitement cette ambiguïté. Dénonçant un complot à l'échelle planétaire, il généra des millions de vues sur YouTube et Facebook, deux plateformes appartenant respectivement à Google et Méta, deux des entreprises les plus valorisées au monde.
 
 #### Références/ Inspirations
-[[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
+1. [[003 Litterature/Veille/«holdup», ou comment faire une bonne théorie du complot\|«holdup», ou comment faire une bonne théorie du complot]]
+2. [[003 Litterature/Veille/Informer_en_2025_C_Deschamps\|Informer_en_2025_C_Deschamps]]
 
 #### Liens
 [[004 Notes permanentes/20251024 - Information - besoins - réponses simplistes\|20251024 - Information - besoins - réponses simplistes]]

@@ -12,7 +12,7 @@ Résultat ? Une obéissance déconcertante, prouvant à quel point l’autorité
 
 
 #### Références/ Inspirations
-[[001 Sources/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
 
 #### Liens
 

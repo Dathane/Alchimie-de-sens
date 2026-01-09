@@ -24,7 +24,7 @@ L'objectif de ces sites n'est plus la dimension sociale mais de chercher à nous
 #### Références/ Inspirations
 1. [[003 Litterature/Veille/inoreader.com-ado et réseaux sociaux\|inoreader.com-ado et réseaux sociaux]]
 2. [[003 Litterature/Veille/slate.fr-Les réseaux sociaux sont-ils morts\|slate.fr-Les réseaux sociaux sont-ils morts]]
-3. [[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+3. [[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 #### Liens
 
 

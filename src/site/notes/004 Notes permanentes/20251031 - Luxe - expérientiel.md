@@ -3,7 +3,7 @@
 ---
 
 Le lancement de la carafe Branson, née de la collaboration entre le rappeur 50 Cent et Silvio Denz, propriétaire de Lalique, marque une nouvelle ère dans l’univers du luxe. 
-Ce cognac hors d’âge tente de s'inscrire dans la lignée des créations prestigieuses des grandes maisons. Il parait subjectivement manquer d'un *je-ne-sais-quoi* d'intemporel dans son packaging, plus spectaculaire et impressionnat qu'élégant.
+Ce cognac hors d’âge tente de s'inscrire dans la lignée des créations prestigieuses des grandes maisons. Il parait subjectivement manquer d'un *je-ne-sais-quoi* d'intemporel dans son packaging, plus spectaculaire et impressionnant qu'élégant.
 L’innovation réside avant tout dans son modèle de commercialisation. Pour en devenir propriétaire, les heureux élus devront d’abord verser 5 000 a une fondation — une somme partiellement défiscalisable.
 Les 20 000 restants ne se limitent pas à l’acquisition de la carafe : ils ouvrent les portes du _505 Society_, un club exclusif. Les membres bénéficient d’un message personnalisé des créateurs sous forme de NFT, ainsi que d’invitations à des événements premium (sportifs et musicaux) pendant deux ans, renouvelables moyennant 5 000 $ annuels. 
 Même la livraison, effectuée avec des gants blancs, est facturée en supplément.

@@ -25,7 +25,7 @@ C’est pourquoi des concepts comme la rationalité limitée (Simon) ou les biai
 
 #### Références/ Inspirations
 [[003 Litterature/Recherche/Simon 1955 - A behavioral model of rational choice\|Simon 1955 - A behavioral model of rational choice]]
-[[001 Sources/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
+[[003 Litterature/Recherche/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
 
 #### Liens
 [[004 Notes permanentes/20231021 - Economie comportementale - biais cognitifs - généralités\|20231021 - Economie comportementale - biais cognitifs - généralités]]

@@ -12,7 +12,7 @@ Cette réalité rappelle une vérité : la logique pure et la rationalité ne su
 Les mécanismes de pensée, même chez les génies, restent vulnérables aux pièges de la cognition — preuve que la lucidité est une compétence à part entière, distincte de l’intelligence mesurée.
 
 #### Références/ Inspirations
-[[001 Sources/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
 
 #### Liens
 

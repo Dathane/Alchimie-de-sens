@@ -11,9 +11,12 @@ Mais avec leur déclin, chacun se tourne vers de nouvelles formes de croyances, 
 Le problème ne réside pas dans les croyances elles-mêmes, mais dans l’incapacité à les reconnaître comme telles. 
 Dès lors qu’une croyance devient absolue et refuse toute remise en question, elle bascule dans le sectarisme, qu’elle soit religieuse ou « moderne ».
 
+Aussi intelligent, cultivé et critique soit-il, aucun être humain n’est à l’abri de croire à quelque ineptie, essentiellement parce qu’il est difficile d’accepter le hasard.
+Il est très rare que l’on puisse faire changer d’avis ceux qui sont déjà convaincus. Le risque, c’est de renforcer au contraire leurs croyances.
+
 ## Source
 https://www.cnrtl.fr/lexicographie/croyance
-
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
 
 #### Références/ Inspirations
 

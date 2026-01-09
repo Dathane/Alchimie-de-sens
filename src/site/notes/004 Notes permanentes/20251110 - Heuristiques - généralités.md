@@ -13,8 +13,8 @@ Contrairement aux biais (qui sont des erreurs systématiques de raisonnement), l
 Les heuristiques nous rappellent que notre cerveau, machine économe, préfère souvent une réponse "assez bonne" à une solution parfaite mais coûteuse.
 
 #### Références/ Inspirations
-[[001 Sources/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
-[[001 Sources/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
+[[003 Litterature/Recherche/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
 #### Liens
 
 

@@ -8,8 +8,11 @@ Un autre levier puissant réside dans la peur sociale, cette crainte de manquer 
 
 Pour décrypter ces comportements, il a fallu concevoir des interfaces homme-machine capables de traquer les micro-actions : clics, retours en arrière sur un mot, durée de visionnage d’une vidéo ou temps passé sur une image. Chaque indice d’attention est ainsi transformé en données numériques. Une fois agrégées par des algorithmes, ces données dessinent un portrait bien plus précis que celui que l’internaute souhaite révéler, allant jusqu’à révéler des traits qu’il méconnaît de lui-même. Résultat : des personas d’une précision redoutable, exploités par les entreprises en quête des besoins profonds de leurs clients potentiels.
 
+Face à ces pratiques, on peut suggérer de se tourner vers la *choisologie*, c'est à dire reprendre les commandes en décidant intentionnellement quand aller sur un site ou sur une application. (2)
+
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+1. [[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+2. [[003 Litterature/Veille/cooptic.be-licpro1-captologie\|cooptic.be-licpro1-captologie]]
 
 #### Liens
 [[004 Notes permanentes/20251121 - Peur vs Anxiété - comparaison\|20251121 - Peur vs Anxiété - comparaison]]

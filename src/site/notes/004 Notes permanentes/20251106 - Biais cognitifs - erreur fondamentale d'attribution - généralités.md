@@ -18,7 +18,7 @@ Pourtant, pour évaluer un comportement de manière juste, il est préférable d
 
 
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
 

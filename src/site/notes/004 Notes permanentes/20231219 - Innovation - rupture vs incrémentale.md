@@ -6,6 +6,8 @@ Les innovations de rupture ne se contentent pas d’améliorer l’existant : el
 
 Une telle transformation ne s’opère pas en un jour. Elle exige une démarche itérative, faite de tâtonnements et d’ajustements constants. Pour une entreprise, envisager une rupture revient souvent à remettre en cause ses propres fondements, comme Kodak l’a douloureusement expérimenté. En inventant l’appareil photo numérique, l’entreprise a, sans le vouloir, sapé son modèle historique, fondé sur la vente de pellicules et de tirages papier.
 
+Fuji n'a pas eu la même lecture, gardant et faisant évoluer son coeur de métier, celui de la chimie (2)
+
 L’approche linéaire — une idée, suivie de son développement, puis de son lancement sur le marché — reste pertinente pour les innovations incrémentales. Mais elle s’avère inadaptée face aux ruptures. Ces dernières naissent plutôt d’un processus cyclique, où les allers-retours entre conception, expérimentation et réajustement priment sur la planification rigide.
 
 Pourtant, le mythe d’une innovation conçue de manière séquentielle persiste : une idée germe, sa faisabilité est étudiée, un prototype est développé, testé, peaufiné, avant d’être commercialisé selon un business plan méticuleusement élaboré. Cette méthode, efficace pour perfectionner un produit ou ajouter une fonctionnalité, échoue à transformer un marché en profondeur.
@@ -13,7 +15,8 @@ Pourtant, le mythe d’une innovation conçue de manière séquentielle persiste
 Prenons l’exemple de la puce M2 d’Apple. Si ses performances marquent une indéniable avancée, elles relèvent davantage de l’amélioration que de la révolution. Une innovation incrémentale, en somme, là où une innovation de rupture exigerait de repenser l’écosystème dans son ensemble.
 
 #### Références/ Inspirations
-[[003 Litterature/Veille/philippesilberzahn.com-Pourquoi votre entité innovation de rupture ne va nulle part\|philippesilberzahn.com-Pourquoi votre entité innovation de rupture ne va nulle part]]
+1. [[003 Litterature/Veille/philippesilberzahn.com-Pourquoi votre entité innovation de rupture ne va nulle part\|philippesilberzahn.com-Pourquoi votre entité innovation de rupture ne va nulle part]]
+2. [[003 Litterature/Veille/philippesilberzahn.com-Se réinventer dans un monde incertain Attention aux fausses évidences\|philippesilberzahn.com-Se réinventer dans un monde incertain Attention aux fausses évidences]]
 
 #### Notes précédentes
 [[004 Notes permanentes/20240221 - Innovation - définition et historique\|20240221 - Innovation - définition et historique]]

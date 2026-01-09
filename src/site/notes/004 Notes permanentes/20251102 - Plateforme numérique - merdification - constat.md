@@ -15,7 +15,7 @@ L'Europe s'y essaie mais à un rythme de sénateur, avec une crainte de la ripos
 
 #### Références/ Inspirations
 Doctorow, C. (2025). _Enshittification : Why Everything Suddenly Got Worse and What To Do About It_. Verso Books.
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 [[003 Litterature/Veille/slate.fr-Internet cétait mieux avant pourquoi tous les sites que vous aimiez sont devenus pourris\|slate.fr-Internet cétait mieux avant pourquoi tous les sites que vous aimiez sont devenus pourris]]
 [[003 Litterature/Veille/scienceshumaines.com-La merdification d'Internet ou comment le web se dégrade\|scienceshumaines.com-La merdification d'Internet ou comment le web se dégrade]]
 #### Liens

@@ -19,7 +19,7 @@ Dans les faits, on peut se poser effectivement la question de la "sagesse de la 
 #### Références/ Inspirations
 Nudge: Improving Decisions About Health, Wealth, and Happiness_ de Richard Thaler et Cass Sunstein (2008)
 Misbehaving: The Making of Behavioral Economics de Richard Thaler (2015) 
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 #### Liens
 [[004 Notes permanentes/20240221 - Economie comportementale - généralités\|20240221 - Economie comportementale - généralités]]
 

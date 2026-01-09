@@ -9,7 +9,7 @@ Mais d'une certaine manière, l’Internet des origines n’existe plus, comme l
 Avec le temps, internet a vu se développer une asymétrie entre ceux qui espionnent (Etats ou Entreprises) et ceux qui sont espionnés dans des proportions jamais vu.
 
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
 [[004 Notes permanentes/20251022 - Contrôle - big brother - évolution\|20251022 - Contrôle - big brother - évolution]]

@@ -15,7 +15,7 @@ Des chercheurs comme Daniel Kahneman et Amos Tversky (1979) ont posé les bases 
 L’économie comportementale fait aussi le lien entre économie classique et marketing. En comprenant nos irrationalités, elle offre des outils pour concevoir des politiques publiques plus efficaces, des produits mieux adaptés, ou même des campagnes de santé plus persuasives (Skouras et al. 2005).
 
 #### Références/ Inspirations
-[[001 Sources/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
+[[003 Litterature/Recherche/Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée\|Kahneman 2012 - Système 1, système 2 les deux vitesses de la pensée]]
 Thinking, Fast and Slow_ de Daniel Kahneman (2011)
 Kahneman, D., & Tversky, A. (1979). _Prospect Theory: An Analysis of Decision under Risk_. Econometrica, 47(2), 263-291. 
 Nudge: Improving Decisions About Health, Wealth, and Happiness_ de Richard Thaler et Cass Sunstein (2008)

@@ -15,11 +15,15 @@ Depuis, la commission Bronner propose une typologie nuancée de ces pratiques :
 
 Aujourd’hui, la frontière entre _infox_ et désinformation s’estompe, tant la volonté d’imposer une idéologie — au sens large — brouille les limites entre le vrai et le simplement vraisemblable.
 
+D’après Ch. Deschamps, les dix infox les plus virales ont totalisé 22 millions de partages et 50 millions de likes en trois mois sur les réseaux sociaux. Il souligne que la loi de Brandolini met en évidence une asymétrie marquée : il est bien plus facile de diffuser une fausse information que de la réfuter.
+
+En pratique, une information sensationnaliste et alarmiste provoque un engagement bien supérieur à celui de son démenti, car ce dernier s’appuie sur une démarche rationnelle, tandis que la première exploite souvent des émotions fortes, comme l’indignation.
+
 À ce sujet, les thèses complotistes ou conspirationnistes peuvent être considérées comme des sous-branches de la désinformation même si elles n'ont pas forcément d'objectif idéologique.
 
 #### Références/ Inspirations
 [[003 Litterature/Veille/fr.wikipedia.org-Désinformation\|fr.wikipedia.org-Désinformation]]
-
+[[003 Litterature/Veille/Informer_en_2025_C_Deschamps\|Informer_en_2025_C_Deschamps]]
 #### Liens
 [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]
 [[004 Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales\|20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales]]

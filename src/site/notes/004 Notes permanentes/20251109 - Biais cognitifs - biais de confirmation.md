@@ -14,7 +14,7 @@ Une illustration claire des limites de notre raisonnement face aux énigmes abst
 ---
 
 #### Références/ Inspirations
-[[001 Sources/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
 
 #### Liens
 

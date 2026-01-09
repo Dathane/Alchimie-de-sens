@@ -12,12 +12,13 @@ Quant au Web 4.0, il était imaginé comme l’ère des intelligences interconne
 Pourtant, ni la version 3.0 ni 4.0 n’ont vu le jour. 
 
 Entre-temps, l’économie de l’attention s’est imposée par l'exploitation du vaste réservoir que constituent nos données personnelles. 
+Il s'agit au fond de la "création d'un instantané infini".
 
 Verra-t-on un jour émerger un Web 4.0 ? 
 Rien n’est moins certain, du moins sous la forme et l’ampleur initialement envisagées.
 
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
 

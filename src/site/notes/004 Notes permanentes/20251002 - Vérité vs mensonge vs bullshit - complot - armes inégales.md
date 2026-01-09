@@ -17,7 +17,7 @@ Le complotisme séduit parce qu’il s’adresse à notre système 1 — ce mode
 Entre ces deux extrêmes, le _bullshit_ prospère. Il ne cherche ni à établir la vérité ni à mentir délibérément, mais à brouiller les frontières entre les deux, comme si tout se valait.
 
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
 [[004 Notes permanentes/20251002 - Système 1 vs système 2 - traitement de l'information\|20251002 - Système 1 vs système 2 - traitement de l'information]]

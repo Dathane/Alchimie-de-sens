@@ -6,10 +6,12 @@ Notre attention est souvent comparée à celle d’un poisson rouge, surtout lor
 
 Celui-ci arrive à se concentrer durant 8 secondes, nous peinons à atteindre les 9 secondes ! 
 
-Les plateformes numériques sont très conscientes de cette information. Elles n’hésitent pas à exploiter notre capacité de concentration limitée en nous soumettant un déluge de stimuli pour nous captiver et tirer profit de nos données personnelles.
+Les plateformes numériques sont très conscientes de cette information. Elles n’hésitent pas à exploiter notre capacité de concentration limitée en nous soumettant un déluge de stimuli pour nous captiver et tirer profit de nos données personnelles. (1)
+
+Même les films et les séries doivent apporter des nouveautés toutes les 45 secondes pour maintenir l'attention au risque de rendre l'histoire sans profondeur. (2)
 
 #### Références/ Inspirations
-[[001 Sources/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
+[[003 Litterature/Veille/Patino - La civilisation du poisson rouge\|Patino - La civilisation du poisson rouge]]
 
 #### Liens
 [[004 Notes permanentes/20251019 - Attention - ressource précieuse\|20251019 - Attention - ressource précieuse]]

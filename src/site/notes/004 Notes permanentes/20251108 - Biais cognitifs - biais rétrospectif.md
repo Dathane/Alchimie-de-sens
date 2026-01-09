@@ -13,7 +13,7 @@ Ce phénomène s’explique en partie par le besoin naturel de notre esprit de d
 Une caractéristique qui, semble-t-il, les distingue particulièrement.
 
 #### Références/ Inspirations
-[[001 Sources/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
+[[003 Litterature/Veille/Sciences Humaines - Psychologie de la connerie\|Sciences Humaines - Psychologie de la connerie]]
 
 #### Liens
 
