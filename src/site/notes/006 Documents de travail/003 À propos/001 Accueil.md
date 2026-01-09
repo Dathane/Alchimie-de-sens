@@ -11,12 +11,12 @@ Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS
 
 | Derniers documents                                                                                                                    | Modifié le |
 | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/20240705 - Gratuité - valeur - danger\|20240705 - Gratuité - valeur - danger]]                             | 09/01/2026 |
 | [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]                     | 07/01/2026 |
 | [[004 Notes permanentes/20250224 - Prix - valeur - correlation\|20250224 - Prix - valeur - correlation]]                           | 05/01/2026 |
 | [[004 Notes permanentes/20241103 - Valeur - concept - dynamique vs statique\|20241103 - Valeur - concept - dynamique vs statique]] | 05/01/2026 |
 | [[004 Notes permanentes/20240719 - Terroir - définition - typicité\|20240719 - Terroir - définition - typicité]]                   | 04/01/2026 |
 | [[004 Notes permanentes/20260102 - Organisation - images\|20260102 - Organisation - images]]                                       | 02/01/2026 |
-| [[004 Notes permanentes/20240705 - Gratuité - valeur - danger\|20240705 - Gratuité - valeur - danger]]                             | 15/12/2025 |
 | [[004 Notes permanentes/20251031 - Luxe - expérientiel\|20251031 - Luxe - expérientiel]]                                           | 13/12/2025 |
 | [[004 Notes permanentes/20250903 - Réussite vs échec - chance vs talent\|20250903 - Réussite vs échec - chance vs talent]]         | 06/12/2025 |
 | [[004 Notes permanentes/20231219 - Innovation - rupture vs incrémentale\|20231219 - Innovation - rupture vs incrémentale]]         | 02/12/2025 |
