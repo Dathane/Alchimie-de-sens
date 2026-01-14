@@ -9,6 +9,7 @@ A ce titre, il est dangereux de construire un modèle sur cette promesse, car ce
 #### Références/ Inspirations
 
 
+
 #### Liens
 [[004 Notes permanentes/20240705 - Innovation - rupture - impact sociétal - création de marché\|20240705 - Innovation - rupture - impact sociétal - création de marché]]
 [[004 Notes permanentes/20250224 - Prix - valeur - correlation\|20250224 - Prix - valeur - correlation]]

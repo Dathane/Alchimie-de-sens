@@ -9,17 +9,17 @@ Pourquoi ce choix ? Les raisons sont détaillées [[006 Documents de travail/003
 
 Découvrez ci-dessous les dernières contributions, ou abonnez-vous au [flux RSS](https://alchimie-de-sens.netlify.app/feed.xml) pour ne rien manquer des prochaines publications.
 
-| Derniers documents                                                                                                                    | Modifié le |
-| ------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [[004 Notes permanentes/20240705 - Gratuité - valeur - danger\|20240705 - Gratuité - valeur - danger]]                             | 09/01/2026 |
-| [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]                     | 07/01/2026 |
-| [[004 Notes permanentes/20250224 - Prix - valeur - correlation\|20250224 - Prix - valeur - correlation]]                           | 05/01/2026 |
-| [[004 Notes permanentes/20241103 - Valeur - concept - dynamique vs statique\|20241103 - Valeur - concept - dynamique vs statique]] | 05/01/2026 |
-| [[004 Notes permanentes/20240719 - Terroir - définition - typicité\|20240719 - Terroir - définition - typicité]]                   | 04/01/2026 |
-| [[004 Notes permanentes/20260102 - Organisation - images\|20260102 - Organisation - images]]                                       | 02/01/2026 |
-| [[004 Notes permanentes/20251031 - Luxe - expérientiel\|20251031 - Luxe - expérientiel]]                                           | 13/12/2025 |
-| [[004 Notes permanentes/20250903 - Réussite vs échec - chance vs talent\|20250903 - Réussite vs échec - chance vs talent]]         | 06/12/2025 |
-| [[004 Notes permanentes/20231219 - Innovation - rupture vs incrémentale\|20231219 - Innovation - rupture vs incrémentale]]         | 02/12/2025 |
-| [[004 Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses\|20251029 - Réseaux sociaux - déclin - analyses]]           | 30/11/2025 |
+| Derniers documents                                                                                                                                                      | Modifié le |
+| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [[004 Notes permanentes/20260121 - Spiritueux - style vs nouveautés - analogie monde moderne\|20260121 - Spiritueux - style vs nouveautés - analogie monde moderne]] | 14/01/2026 |
+| [[004 Notes permanentes/20240705 - Gratuité - valeur - danger\|20240705 - Gratuité - valeur - danger]]                                                               | 09/01/2026 |
+| [[004 Notes permanentes/20251019 - Théorie du complot - mécanisme\|20251019 - Théorie du complot - mécanisme]]                                                       | 07/01/2026 |
+| [[004 Notes permanentes/20250224 - Prix - valeur - correlation\|20250224 - Prix - valeur - correlation]]                                                             | 05/01/2026 |
+| [[004 Notes permanentes/20241103 - Valeur - concept - dynamique vs statique\|20241103 - Valeur - concept - dynamique vs statique]]                                   | 05/01/2026 |
+| [[004 Notes permanentes/20240719 - Terroir - définition - typicité\|20240719 - Terroir - définition - typicité]]                                                     | 04/01/2026 |
+| [[004 Notes permanentes/20260102 - Organisation - images\|20260102 - Organisation - images]]                                                                         | 02/01/2026 |
+| [[004 Notes permanentes/20251031 - Luxe - expérientiel\|20251031 - Luxe - expérientiel]]                                                                             | 13/12/2025 |
+| [[004 Notes permanentes/20250903 - Réussite vs échec - chance vs talent\|20250903 - Réussite vs échec - chance vs talent]]                                           | 06/12/2025 |
+| [[004 Notes permanentes/20231219 - Innovation - rupture vs incrémentale\|20231219 - Innovation - rupture vs incrémentale]]                                           | 02/12/2025 |
 
 { .block-language-dataview}
