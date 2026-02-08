@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251107 - Heuristiques - approximations vs justesse.md","permalink":"/notes-permanentes/20251107-heuristiques-approximations-vs-justesse/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-06T08:43","Updated":"2025-11-06T09:29","dg-path":"Notes permanentes/20251107 - Heuristiques - approximations vs justesse.md","permalink":"/notes-permanentes/20251107-heuristiques-approximations-vs-justesse/","dgPassFrontmatter":true}
 ---
 
 Selon Paul Valéry, écrivain, poète et philosophe français, _« L’approximation, c’est l’indice de l’humain. »_ Cette affirmation prend tout son sens lorsqu’on la confronte aux capacités de l’intelligence artificielle. 

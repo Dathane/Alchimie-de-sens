@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20250328 - Anthropomorphisme.md","permalink":"/notes-permanentes/20250328-anthropomorphisme/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:55","Updated":"2025-11-02T20:15","dg-path":"Notes permanentes/20250328 - Anthropomorphisme.md","permalink":"/notes-permanentes/20250328-anthropomorphisme/","dgPassFrontmatter":true}
 ---
 
 Les humains ont une tendance naturelle à anthropomorphiser les objets et les entités pour trouver des comportements (ou des formes) humaines.

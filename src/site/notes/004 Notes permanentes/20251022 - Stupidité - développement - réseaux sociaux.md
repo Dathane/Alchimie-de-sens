@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251022 - Stupidité - développement - réseaux sociaux.md","permalink":"/notes-permanentes/20251022-stupidite-developpement-reseaux-sociaux/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251022 - Stupidité - développement - réseaux sociaux.md","permalink":"/notes-permanentes/20251022-stupidite-developpement-reseaux-sociaux/","dgPassFrontmatter":true}
 ---
 
 Dans son essai satirique sur la stupidité, Carlo Cipolla définit l’individu stupide comme celui dont les actions, systématiquement nuisibles pour autrui ou pour la collectivité, ne lui rapportent aucun avantage — bien au contraire, elles peuvent même se retourner contre lui. Leur cohérence est implacable : toujours animés par cette même logique de perte réciproque, ils en deviennent d’autant plus redoutables que leur potentiel de nuisance est sans limite.

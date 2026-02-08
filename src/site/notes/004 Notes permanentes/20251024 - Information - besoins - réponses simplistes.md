@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251024 - Information - besoins - réponses simplistes.md","permalink":"/notes-permanentes/20251024-information-besoins-reponses-simplistes/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T09:26","dg-path":"Notes permanentes/20251024 - Information - besoins - réponses simplistes.md","permalink":"/notes-permanentes/20251024-information-besoins-reponses-simplistes/","dgPassFrontmatter":true}
 ---
 
 L’information répond à trois besoins fondamentaux, aussi vitaux qu’universels.

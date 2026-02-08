@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales.md","permalink":"/notes-permanentes/20251002-verite-vs-mensonge-vs-bullshit-complot-armes-inegales/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:45","dg-path":"Notes permanentes/20251002 - Vérité vs mensonge vs bullshit - complot - armes inégales.md","permalink":"/notes-permanentes/20251002-verite-vs-mensonge-vs-bullshit-complot-armes-inegales/","dgPassFrontmatter":true}
 ---
 
 *Quand le mensonge prend l'ascenseur, la vérité prend l'escalier. Même si elle met plus de temps, la vérité finit toujours par arriver !* (proverbe africain)

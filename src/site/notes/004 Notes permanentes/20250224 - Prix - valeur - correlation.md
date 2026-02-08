@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20250224 - Prix - valeur - correlation.md","permalink":"/notes-permanentes/20250224-prix-valeur-correlation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2026-01-05T13:44","dg-path":"Notes permanentes/20250224 - Prix - valeur - correlation.md","permalink":"/notes-permanentes/20250224-prix-valeur-correlation/","dgPassFrontmatter":true}
 ---
 
 Le débat sur le prix et la valeur est loin de faire l'objet d'un consensus. Le prix est-il la mesure de la valeur ou un simple indice [@malleret2009] ?

@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251015 - Rationalité limitée - généralités.md","permalink":"/notes-permanentes/20251015-rationalite-limitee-generalites/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:43","dg-path":"Notes permanentes/20251015 - Rationalité limitée - généralités.md","permalink":"/notes-permanentes/20251015-rationalite-limitee-generalites/","dgPassFrontmatter":true}
 ---
 
 Herbert Simon, prix Nobel d’économie en 1978, a développé le concept de **rationalité limitée** pour expliquer comment les individus prennent des décisions dans un monde complexe et incertain. Voici les points clés de son approche :

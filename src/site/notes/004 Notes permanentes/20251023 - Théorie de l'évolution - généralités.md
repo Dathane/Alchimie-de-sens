@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Théorie de l'évolution - généralités.md","permalink":"/notes-permanentes/20251023-theorie-de-l-evolution-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251023 - Théorie de l'évolution - généralités.md","permalink":"/notes-permanentes/20251023-theorie-de-l-evolution-generalites/","dgPassFrontmatter":true}
 ---
 
 Dans leur ouvrage *l'évolution en 30 secondes*, Fellows et Battey, montre que cette dernière est le fruit d’un processus à la fois long et complexe. 

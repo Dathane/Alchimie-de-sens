@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20220919 - Marketing - célébrités - avantage vs inconvénients.md","permalink":"/notes-permanentes/20220919-marketing-celebrites-avantage-vs-inconvenients/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:34","Updated":"2025-11-26T08:42","dg-path":"Notes permanentes/20220919 - Marketing - célébrités - avantage vs inconvénients.md","permalink":"/notes-permanentes/20220919-marketing-celebrites-avantage-vs-inconvenients/","dgPassFrontmatter":true}
 ---
 
 L’utilisation de célébrités comme ambassadeurs de marque s’appuie sur l’effet "endorsement" : leur statut social incite les consommateurs à associer les produits qu’elles promeuvent à leurs propres qualités. Les dérapages médiatiques de ces personnalités, plutôt que de nuire à l’image de marque, augmentent souvent leur visibilité, sauf dans le luxe où les attentes restent strictes.
@@ -17,13 +17,13 @@ Au fond, la stratégie gagnante reste d’allier les "paillettes" du marketing p
 [[003 Litterature/Veille/vsnews.fr-celebrites-et-marques-de-vins-et-spiritueux-un-mariage-qui-dure\|vsnews.fr-celebrites-et-marques-de-vins-et-spiritueux-un-mariage-qui-dure]]
 
 #### Références/ Inspirations
-1. [[neuromonaco-l'effet célébrité.pdf]]
-2. [[lesgrappes.com-top 5 des stars qui font du vin.pdf]]
-3. [[irishpost.com-Conor McGregors Irish whiskey smashes sales recordsdespite terrible reviews.pdf]]
-4. [[thedrinksbusiness.com-2021 sees spate of new drinks industry acquisitions.pdf]]
-5. [[thespiritsbusiness.com-complaint against kendall jenners 818 tequila upheld.pdf]]
-6. [[thespiritsbusiness.com-Rémy Cointreau sues 50 Cent's Cognac brand.pdf]]
-7. [[bigbowser.blog.lemonde.fr-bruce lee ressuscité dans une pub pour du whisky.pdf]]
+1. [neuromonaco-l'effet célébrité.pdf](/img/user/001%20Sources/Veille/neuromonaco-l'effet%20c%C3%A9l%C3%A9brit%C3%A9.pdf)
+2. [lesgrappes.com-top 5 des stars qui font du vin.pdf](/img/user/001%20Sources/Veille/lesgrappes.com-top%205%20des%20stars%20qui%20font%20du%20vin.pdf)
+3. [irishpost.com-Conor McGregors Irish whiskey smashes sales recordsdespite terrible reviews.pdf](/img/user/001%20Sources/Veille/irishpost.com-Conor%20McGregors%20Irish%20whiskey%20smashes%20sales%20recordsdespite%20terrible%20reviews.pdf)
+4. [thedrinksbusiness.com-2021 sees spate of new drinks industry acquisitions.pdf](/img/user/001%20Sources/Veille/thedrinksbusiness.com-2021%20sees%20spate%20of%20new%20drinks%20industry%20acquisitions.pdf)
+5. [thespiritsbusiness.com-complaint against kendall jenners 818 tequila upheld.pdf](/img/user/001%20Sources/Veille/thespiritsbusiness.com-complaint%20against%20kendall%20jenners%20818%20tequila%20upheld.pdf)
+6. [thespiritsbusiness.com-Rémy Cointreau sues 50 Cent's Cognac brand.pdf](/img/user/001%20Sources/Veille/thespiritsbusiness.com-R%C3%A9my%20Cointreau%20sues%2050%20Cent's%20Cognac%20brand.pdf)
+7. [bigbowser.blog.lemonde.fr-bruce lee ressuscité dans une pub pour du whisky.pdf](/img/user/001%20Sources/Veille/bigbowser.blog.lemonde.fr-bruce%20lee%20ressuscit%C3%A9%20dans%20une%20pub%20pour%20du%20whisky.pdf)
 
 #### Liens
 

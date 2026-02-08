@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251021 - Théorie du complot - illustration - programme Apollo.md","permalink":"/notes-permanentes/20251021-theorie-du-complot-illustration-programme-apollo/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251021 - Théorie du complot - illustration - programme Apollo.md","permalink":"/notes-permanentes/20251021-theorie-du-complot-illustration-programme-apollo/","dgPassFrontmatter":true}
 ---
 
 Le programme Apollo, mené entre 1969 et 1972, n’a jamais cessé d’alimenter les débats et les doutes. Pourtant, plus de cinquante ans après les premiers pas sur la Lune, une partie de l’opinion publique persiste à y voir une vaste supercherie.

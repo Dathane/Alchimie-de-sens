@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251128 - Intelligence artificielle générative - utilisation - conseil.md","permalink":"/notes-permanentes/20251128-intelligence-artificielle-generative-utilisation-conseil/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-26T07:41","Updated":"2025-11-26T20:11","dg-path":"Notes permanentes/20251128 - Intelligence artificielle générative - utilisation - conseil.md","permalink":"/notes-permanentes/20251128-intelligence-artificielle-generative-utilisation-conseil/","dgPassFrontmatter":true}
 ---
 
 L’IA générative offre deux modes d’utilisation distincts.

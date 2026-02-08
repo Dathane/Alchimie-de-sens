@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"dg-path":"Notes permanentes/20251031 - Luxe - expérientiel.md","permalink":"/notes-permanentes/20251031-luxe-experientiel/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":null,"Created":"2025-10-30T08:35","Updated":"2025-12-13T17:39","dg-path":"Notes permanentes/20251031 - Luxe - expérientiel.md","permalink":"/notes-permanentes/20251031-luxe-experientiel/","dgPassFrontmatter":true}
 ---
 
 Le lancement de la carafe Branson, née de la collaboration entre le rappeur 50 Cent et Silvio Denz, propriétaire de Lalique, marque une nouvelle ère dans l’univers du luxe. 

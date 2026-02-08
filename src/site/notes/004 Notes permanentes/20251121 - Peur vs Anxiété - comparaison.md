@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251121 - Peur vs Anxiété - comparaison.md","permalink":"/notes-permanentes/20251121-peur-vs-anxiete-comparaison/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-12T19:52","Updated":"2025-11-12T19:56","dg-path":"Notes permanentes/20251121 - Peur vs Anxiété - comparaison.md","permalink":"/notes-permanentes/20251121-peur-vs-anxiete-comparaison/","dgPassFrontmatter":true}
 ---
 
 La peur se manifeste comme une réaction intense face à un danger bien défini (un chien qui aboie par exemple). Elle constitue une émotion à la fois puissante et bénéfique, car elle nous permet d’agir avec rapidité et efficacité.

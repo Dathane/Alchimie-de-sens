@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251119 - Echelle de valeur - rémunération - rationalité.md","permalink":"/notes-permanentes/20251119-echelle-de-valeur-remuneration-rationalite/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-10T19:55","Updated":"2025-11-10T20:05","dg-path":"Notes permanentes/20251119 - Echelle de valeur - rémunération - rationalité.md","permalink":"/notes-permanentes/20251119-echelle-de-valeur-remuneration-rationalite/","dgPassFrontmatter":true}
 ---
 
 1 000 milliards de dollars, c'était l'estimation de la valeur de l'ensemble des richesses dans le monde en 1952, selon Le Monde.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Information - définition - éthymologie.md","permalink":"/notes-permanentes/20251023-information-definition-ethymologie/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T11:07","dg-path":"Notes permanentes/20251023 - Information - définition - éthymologie.md","permalink":"/notes-permanentes/20251023-information-definition-ethymologie/","dgPassFrontmatter":true}
 ---
 
 La première définition du mot _« information »_, selon le CNRTL, revèle une première ambiguïté : _« l’action de donner ou de recevoir une forme »_. Elle souligne une primauté de l’apparence sur le contenu. Cette acception résonne avec notre époque, où la crédibilité d’un message semble souvent dépendre de son emballage (un graphisme soigné, un ton assertif, une viralité algorithmique) bien plus que de sa véracité. La forme, en somme, l’emporterait sur le fond, au point de façonner nos croyances indépendamment des faits ?

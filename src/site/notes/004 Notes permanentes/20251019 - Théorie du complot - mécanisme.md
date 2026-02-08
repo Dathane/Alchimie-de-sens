@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251019 - Théorie du complot - mécanisme.md","permalink":"/notes-permanentes/20251019-theorie-du-complot-mecanisme/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2026-01-07T18:27","dg-path":"Notes permanentes/20251019 - Théorie du complot - mécanisme.md","permalink":"/notes-permanentes/20251019-theorie-du-complot-mecanisme/","dgPassFrontmatter":true}
 ---
 
 Les théories du complot offrent une vision simpliste du monde : des ennemis désignés mais en partie abstrait (ordre mondial), une approche binaire (bien/mal, dominant/dominé), des motivations évidentes (argent, pouvoir) et des enchaînements causaux tirés de corrélations ou de coïncidences souvent discutables. Elles s’appuient aussi sur des références scientifiques, parfois mal maîtrisées ou détournées, pour construire un récit où chaque zone d’ombre s’efface et où aucune question ne reste sans réponse. La vérité qui en découle s’impose alors comme une évidence, absolue et incontestable. C'est ici une des grandes limites de ces approches. Une vérité "normale" contient des zones d'ombres, des phénomènes difficiles à expliquer, des contradictions.

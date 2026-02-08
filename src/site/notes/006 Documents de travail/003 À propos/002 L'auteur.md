@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/002 L'auteur.md","permalink":"/a-propos/002-l-auteur/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T19:05","Updated":"2026-01-09T08:52","dg-path":"À propos/002 L'auteur.md","permalink":"/a-propos/002-l-auteur/","dgPassFrontmatter":true}
 ---
 
 ![SD1.jpg](/img/user/001%20Sources/Images/SD1.jpg)

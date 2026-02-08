@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20231219 - Innovation - rupture vs incrémentale.md","permalink":"/notes-permanentes/20231219-innovation-rupture-vs-incrementale/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-12-02T18:14","dg-path":"Notes permanentes/20231219 - Innovation - rupture vs incrémentale.md","permalink":"/notes-permanentes/20231219-innovation-rupture-vs-incrementale/","dgPassFrontmatter":true}
 ---
 
 Les innovations de rupture ne se contentent pas d’améliorer l’existant : elles redessinent notre vision du monde et esquissent les contours d’un avenir inédit. Pour y parvenir, il ne suffit pas d’adopter une nouvelle technologie ou un modèle économique inédit ; c’est avant tout un changement de paradigme mental qui s’impose. La comparaison entre EasyJet et Air France en offre une illustration frappante. Ce sont deux compagnies aériennes mais surtout deux états d'esprit différents.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251021 - Désinformation - généralités.md","permalink":"/notes-permanentes/20251021-desinformation-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-30T10:49","dg-path":"Notes permanentes/20251021 - Désinformation - généralités.md","permalink":"/notes-permanentes/20251021-desinformation-generalites/","dgPassFrontmatter":true}
 ---
 
 La désinformation n’est pas un phénomène contemporain. Dès _L’Art de la guerre_ (vers 400 av. J.-C.), Sun Tzu en faisait déjà une arme stratégique majeure : en déformant la réalité, on peut convaincre l’ennemi de notre supériorité numérique, de notre puissance ou de notre organisation, et ainsi le dissuader d’engager le combat. Cette manipulation de la perception a pris une ampleur inédite au XXe siècle, avec le déploiement de vastes campagnes de propagande — une pratique plus actuelle que jamais. C'est la principale arme de la Russie de Vladimir Poutine.

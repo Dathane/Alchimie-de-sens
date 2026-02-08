@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251110 - Heuristiques - généralités.md","permalink":"/notes-permanentes/20251110-heuristiques-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T17:44","Updated":"2025-11-06T13:32","dg-path":"Notes permanentes/20251110 - Heuristiques - généralités.md","permalink":"/notes-permanentes/20251110-heuristiques-generalites/","dgPassFrontmatter":true}
 ---
 
 Notre cerveau utilise constamment des heuristiques — des stratégies de simplification — pour prendre des décisions rapides, au détriment parfois de la précision. Ces mécanismes cognitifs nous permettent d’agir sans mobiliser une réflexion approfondie, économisant ainsi temps et énergie pour des enjeux plus complexes.

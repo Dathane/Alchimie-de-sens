@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251030 - PME vs Grands Groupes - fonds propres.md","permalink":"/notes-permanentes/20251030-pme-vs-grands-groupes-fonds-propres/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251030 - PME vs Grands Groupes - fonds propres.md","permalink":"/notes-permanentes/20251030-pme-vs-grands-groupes-fonds-propres/","dgPassFrontmatter":true}
 ---
 
 Lors d’un échange avec un représentant d’un grand groupe évoquant sa capacité d’endettement, Jacques Hardy, à la tête de la PME cognaçaise portant son nom, aurait répondu avec cette formule cinglante : _« Ce que vous appelez vos fonds propres, ce sont pour nous nos propres fonds. »_ 

@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20250903 - Réussite vs échec - chance vs talent.md","permalink":"/notes-permanentes/20250903-reussite-vs-echec-chance-vs-talent/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-12-06T18:04","dg-path":"Notes permanentes/20250903 - Réussite vs échec - chance vs talent.md","permalink":"/notes-permanentes/20250903-reussite-vs-echec-chance-vs-talent/","dgPassFrontmatter":true}
 ---
 
 Statistiquement, les probabilités sont égales : une pièce de monnaie peut tout aussi bien tomber trois fois de suite sur face que trois fois sur pile. Rien de plus qu’un hasard. Pourtant, celui qui s’investit sans relâche pour réussir a cette capacité singulière : provoquer la chance, même si celle-ci ne saurait être garantie. 

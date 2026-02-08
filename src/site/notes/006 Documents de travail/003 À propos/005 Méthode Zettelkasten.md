@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/005 Méthode Zettelkasten.md","permalink":"/a-propos/005-methode-zettelkasten/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T19:35","Updated":"2025-10-31T16:19","dg-path":"À propos/005 Méthode Zettelkasten.md","permalink":"/a-propos/005-methode-zettelkasten/","dgPassFrontmatter":true}
 ---
 
 Mon approche s’appuie sur la méthode Zettelkasten (boîte à notes en français), explorée par le sociologue Niklas Luhmann et décrite par Sönke Ahrens dans _"Comment prendre des notes intelligentes"_ (1). 

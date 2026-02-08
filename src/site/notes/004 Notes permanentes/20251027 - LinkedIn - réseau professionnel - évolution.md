@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251027 - LinkedIn - réseau professionnel - évolution.md","permalink":"/notes-permanentes/20251027-linked-in-reseau-professionnel-evolution/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-16T11:19","dg-path":"Notes permanentes/20251027 - LinkedIn - réseau professionnel - évolution.md","permalink":"/notes-permanentes/20251027-linked-in-reseau-professionnel-evolution/","dgPassFrontmatter":true}
 ---
 
 Avec plus de 1 milliard de membres dans le monde et 33 millions en France, soit 90 % de la population

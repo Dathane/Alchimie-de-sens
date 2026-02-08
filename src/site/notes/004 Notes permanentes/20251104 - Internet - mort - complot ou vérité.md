@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251104 - Internet - mort - complot ou vérité.md","permalink":"/notes-permanentes/20251104-internet-mort-complot-ou-verite/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-02T19:45","Updated":"2025-11-02T20:15","dg-path":"Notes permanentes/20251104 - Internet - mort - complot ou vérité.md","permalink":"/notes-permanentes/20251104-internet-mort-complot-ou-verite/","dgPassFrontmatter":true}
 ---
 
 [Internet est-il mort?](https://fr.wikipedia.org/wiki/Th%C3%A9orie_de_l%27Internet_mort) Cette théorie complotiste parmi d’autres sur les réseaux sociaux, suggère que les interactions humaines en ligne auraient disparu, remplacées par des *bots*, et que la [majorité des contenus serait désormais générée par des algorithmes](https://www.radiofrance.fr/franceinfo/podcasts/l-oeil-de-constance/l-oeil-de-constance-du-mardi-16-septembre-2025-8141346).

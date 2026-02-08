@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Temps - ressource - actif economique.md","permalink":"/notes-permanentes/20251023-temps-ressource-actif-economique/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-30T11:26","dg-path":"Notes permanentes/20251023 - Temps - ressource - actif economique.md","permalink":"/notes-permanentes/20251023-temps-ressource-actif-economique/","dgPassFrontmatter":true}
 ---
 
  Pour Gary Becker (prix Nobel d'économie), le temps s’est imposé comme une ressource économique majeure. Son caractère de plus en plus rare, amplifié par l’accélération sociale (Harmut Rosa et 20 ans avant Jaques Ellul) et la progression des revenus, en fait un critère déterminant dans nos arbitrages quotidiens. Nous avons désormais la possibilité de « monétiser » notre temps : en déléguant certaines tâches à autrui, nous libérons des plages pour des activités jugées plus enrichissantes ou productives.

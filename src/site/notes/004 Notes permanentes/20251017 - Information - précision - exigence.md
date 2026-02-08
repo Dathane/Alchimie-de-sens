@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251017 - Information - précision - exigence.md","permalink":"/notes-permanentes/20251017-information-precision-exigence/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:17","dg-path":"Notes permanentes/20251017 - Information - précision - exigence.md","permalink":"/notes-permanentes/20251017-information-precision-exigence/","dgPassFrontmatter":true}
 ---
 
 Dans bien des domaines, nous nous attachons souvent à une précision superflue, scrutant les décimales comme si elles détenaient une vérité incontournable. 

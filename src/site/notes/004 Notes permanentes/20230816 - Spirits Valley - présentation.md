@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20230816 - Spirits Valley - présentation.md","permalink":"/notes-permanentes/20230816-spirits-valley-presentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-27T11:05","dg-path":"Notes permanentes/20230816 - Spirits Valley - présentation.md","permalink":"/notes-permanentes/20230816-spirits-valley-presentation/","dgPassFrontmatter":true}
 ---
 
 La Spirits Valley est un cluster/grappe d’activité situé autour des bassins économiques des villes de Cognac, d’Angoulême et de Saintes. 

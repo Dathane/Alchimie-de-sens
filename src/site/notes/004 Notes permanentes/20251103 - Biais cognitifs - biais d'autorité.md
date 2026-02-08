@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251103 - Biais cognitifs - biais d'autorité.md","permalink":"/notes-permanentes/20251103-biais-cognitifs-biais-d-autorite/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T18:10","Updated":"2025-11-06T13:42","dg-path":"Notes permanentes/20251103 - Biais cognitifs - biais d'autorité.md","permalink":"/notes-permanentes/20251103-biais-cognitifs-biais-d-autorite/","dgPassFrontmatter":true}
 ---
 
 Le biais d’autorité ou _« effet blouse blanche »_ nous pousse à accorder une confiance aveugle à un message ou à une personne dès lors qu’ils arborent les attributs de la science : un titre prestigieux, un jargon technique, ou même une simple blouse. 

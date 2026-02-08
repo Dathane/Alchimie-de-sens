@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Psychologie évolutionniste - présentation.md","permalink":"/notes-permanentes/20251023-psychologie-evolutionniste-presentation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251023 - Psychologie évolutionniste - présentation.md","permalink":"/notes-permanentes/20251023-psychologie-evolutionniste-presentation/","dgPassFrontmatter":true}
 ---
 
 La psychologie évolutionniste — parfois abrégée en _évopsy_ — émerge dans les années 1970 avant d’être formalisée par les travaux fondateurs de Cosmides et Tooby (1993). Héritière directe, bien que controversée, de la sociobiologie, cette discipline propose une lecture originale de l’évolution : si les traits physiques ont été façonnés par la sélection naturelle, certains comportements ou dispositions psychologiques (et les gènes sous-jacents) pourraient, eux aussi, en porter la trace. Parmi ces traits présumés innés figurent la reconnaissance instantanée des émotions faciales ou encore l’aptitude au langage, ou à compter un petit nombre (1 à 6) des compétences qui, selon cette théorie, seraient ancrées en nous dès la naissance.

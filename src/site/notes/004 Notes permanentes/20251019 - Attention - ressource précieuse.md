@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251019 - Attention - ressource précieuse.md","permalink":"/notes-permanentes/20251019-attention-ressource-precieuse/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-26T20:17","dg-path":"Notes permanentes/20251019 - Attention - ressource précieuse.md","permalink":"/notes-permanentes/20251019-attention-ressource-precieuse/","dgPassFrontmatter":true}
 ---
 
 L’attention, tout comme le [[004 Notes permanentes/20251023 - Temps - ressource - actif economique\|temps]], sont des ressources rares — et, à ce titre, s'apparente à un [[004 Notes permanentes/20230203 - Luxe - relation avec le temps\|luxe]]. (1)

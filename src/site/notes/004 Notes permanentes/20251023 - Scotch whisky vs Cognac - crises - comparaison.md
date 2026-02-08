@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Scotch whisky vs Cognac - crises - comparaison.md","permalink":"/notes-permanentes/20251023-scotch-whisky-vs-cognac-crises-comparaison/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:58","dg-path":"Notes permanentes/20251023 - Scotch whisky vs Cognac - crises - comparaison.md","permalink":"/notes-permanentes/20251023-scotch-whisky-vs-cognac-crises-comparaison/","dgPassFrontmatter":true}
 ---
 
 Le Scotch Whisky et le Cognac ont connu des siècles d’aléas économiques et de bouleversements. Pourtant, leur période de prospérité récente — trente ans pour le whisky, quinze pour le cognac — reste sans précédent dans leur longue histoire.

@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251017 - Lecture - généralités.md","permalink":"/notes-permanentes/20251017-lecture-generalites/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:17","dg-path":"Notes permanentes/20251017 - Lecture - généralités.md","permalink":"/notes-permanentes/20251017-lecture-generalites/","dgPassFrontmatter":true}
 ---
 
 On nous martèle l’importance des 7 000 pas quotidiens pour le corps, mais qu’en est-il de l’exercice essentiel de l’esprit ? Consacrer au moins 30 minutes par jour à la lecture — quelle qu’en soit la forme — s’avère tout aussi vital. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251129 - Intelligence artificielle - musique - confiance.md","permalink":"/notes-permanentes/20251129-intelligence-artificielle-musique-confiance/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-26T19:55","Updated":"2025-11-26T19:59","dg-path":"Notes permanentes/20251129 - Intelligence artificielle - musique - confiance.md","permalink":"/notes-permanentes/20251129-intelligence-artificielle-musique-confiance/","dgPassFrontmatter":true}
 ---
 
 Un sondage Ipsos réalisé pour Deezer révèle que 97 % des participants n’ont pas su distinguer une musique entièrement générée par IA d’une création humaine. Ce résultat interroge : l’oreille serait-elle plus aisément trompable que l’œil, au point que la machine puisse désormais faire illusion sans effort ?

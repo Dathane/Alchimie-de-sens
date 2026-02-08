@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251113 - Données personnelles - valeurs.md","permalink":"/notes-permanentes/20251113-donnees-personnelles-valeurs/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-10T08:51","Updated":"2025-11-10T09:11","dg-path":"Notes permanentes/20251113 - Données personnelles - valeurs.md","permalink":"/notes-permanentes/20251113-donnees-personnelles-valeurs/","dgPassFrontmatter":true}
 ---
 
 Les données personnelles sont le nouvel or noir du XXIe siècle. Elles s'apparentent au kérosène pour les géants du numérique. Leur valeur est telle qu'elles transforment les modèles économiques.

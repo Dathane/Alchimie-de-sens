@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251026 - Spiritueux - neutralité - historique.md","permalink":"/notes-permanentes/20251026-spiritueux-neutralite-historique/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251026 - Spiritueux - neutralité - historique.md","permalink":"/notes-permanentes/20251026-spiritueux-neutralite-historique/","dgPassFrontmatter":true}
 ---
 
 Selon Alexandre Gabriel (Maison Ferrand), l’essor des alcools neutres, dépourvus d’arômes, trouve son origine dans les années 1950, porté par la vodka Smirnoff. Avec son slogan emblématique _« Smirnoff leaves you breathless »_, la marque valorisait paradoxalement son absence d’arôme, transformant cette neutralité en une promesse de pureté, séduisante pour une expérience sensorielle inédite.

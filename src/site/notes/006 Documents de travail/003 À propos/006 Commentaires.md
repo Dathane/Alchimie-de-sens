@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/006 Commentaires.md","permalink":"/a-propos/006-commentaires/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T19:03","Updated":"2025-10-29T11:08","dg-path":"À propos/006 Commentaires.md","permalink":"/a-propos/006-commentaires/","dgPassFrontmatter":true}
 ---
 
 Je suis ouvert aux suggestions, critiques ou questions. Faites moi également savoir si vous avez tiré un quelconque bénéfice de ces notes ou si vous souhaitez y contribuer par un commentaire. 

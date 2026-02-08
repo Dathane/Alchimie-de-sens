@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20240705 - Gratuité - valeur - danger.md","permalink":"/notes-permanentes/20240705-gratuite-valeur-danger/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2026-01-09T14:01","dg-path":"Notes permanentes/20240705 - Gratuité - valeur - danger.md","permalink":"/notes-permanentes/20240705-gratuite-valeur-danger/","dgPassFrontmatter":true}
 ---
 
 La gratuité est une tentation pour beaucoup d'entreprises/entrepreneurs. Elle permet de faire connaitre un produit pour en diffuser un usage (freemium), notamment en matière d'innovation de rupture.

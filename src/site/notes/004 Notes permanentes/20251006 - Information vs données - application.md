@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251006 - Information vs données - application.md","permalink":"/notes-permanentes/20251006-information-vs-donnees-application/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:30","dg-path":"Notes permanentes/20251006 - Information vs données - application.md","permalink":"/notes-permanentes/20251006-information-vs-donnees-application/","dgPassFrontmatter":true}
 ---
 
 Une information se distingue d’une simple donnée par sa capacité à nous éclairer, à réduire cette incertitude qui, chez l’humain, relève d'un besoin profond. 

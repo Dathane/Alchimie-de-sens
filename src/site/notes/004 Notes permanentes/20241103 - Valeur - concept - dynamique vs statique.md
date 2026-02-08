@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20241103 - Valeur - concept - dynamique vs statique.md","permalink":"/notes-permanentes/20241103-valeur-concept-dynamique-vs-statique/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:38","Updated":"2026-01-05T12:00","dg-path":"Notes permanentes/20241103 - Valeur - concept - dynamique vs statique.md","permalink":"/notes-permanentes/20241103-valeur-concept-dynamique-vs-statique/","dgPassFrontmatter":true}
 ---
 
 Plusieurs verbes mettent en exergue une partie de la valeur mais tous les auteurs ne s'entendent pas sur la nature de ces expressions.

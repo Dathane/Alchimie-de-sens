@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251109 - Biais cognitifs - biais de confirmation.md","permalink":"/notes-permanentes/20251109-biais-cognitifs-biais-de-confirmation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T17:39","Updated":"2025-11-06T13:32","dg-path":"Notes permanentes/20251109 - Biais cognitifs - biais de confirmation.md","permalink":"/notes-permanentes/20251109-biais-cognitifs-biais-de-confirmation/","dgPassFrontmatter":true}
 ---
 
 Le biais de confirmation est particulièrement commun. Il s'agit de trouver des informations qui corroborent nos croyances ou nos idées, plutôt que chercher à les réfuter. Cela permet de ressentir un certain confort et une cohérence entre notre ressenti et l'image que nous avons du monde.

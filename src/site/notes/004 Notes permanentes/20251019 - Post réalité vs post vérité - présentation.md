@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251019 - Post réalité vs post vérité - présentation.md","permalink":"/notes-permanentes/20251019-post-realite-vs-post-verite-presentation/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-30T19:37","dg-path":"Notes permanentes/20251019 - Post réalité vs post vérité - présentation.md","permalink":"/notes-permanentes/20251019-post-realite-vs-post-verite-presentation/","dgPassFrontmatter":true}
 ---
 
 Selon Gérald Bronner, la post réalité est l'étape supérieure de la post-vérité.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251103 - Attention - mesure.md","permalink":"/notes-permanentes/20251103-attention-mesure/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-02T10:08","Updated":"2025-11-30T10:23","dg-path":"Notes permanentes/20251103 - Attention - mesure.md","permalink":"/notes-permanentes/20251103-attention-mesure/","dgPassFrontmatter":true}
 ---
 
 Notre attention est souvent comparée à celle d’un poisson rouge, surtout lorsque notre esprit s’évade. La vérité est que nous n’avons pas grand-chose pour nous différencier de cet animal sur ce plan. 

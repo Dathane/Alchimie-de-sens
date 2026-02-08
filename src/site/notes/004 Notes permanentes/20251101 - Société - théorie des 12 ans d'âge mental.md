@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251101 - Société - théorie des 12 ans d'âge mental.md","permalink":"/notes-permanentes/20251101-societe-theorie-des-12-ans-d-age-mental/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-01T14:18","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251101 - Société - théorie des 12 ans d'âge mental.md","permalink":"/notes-permanentes/20251101-societe-theorie-des-12-ans-d-age-mental/","dgPassFrontmatter":true}
 ---
 
 Parmi la myriade de théories farfelues qui circulent sur Internet, une d’entre elles se distingue par son côté moqueur : la théorie du _« tout le monde a 12 ans »_. (1)

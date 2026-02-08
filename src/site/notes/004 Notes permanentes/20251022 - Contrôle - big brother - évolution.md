@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251022 - Contrôle - big brother - évolution.md","permalink":"/notes-permanentes/20251022-controle-big-brother-evolution/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-10T09:11","dg-path":"Notes permanentes/20251022 - Contrôle - big brother - évolution.md","permalink":"/notes-permanentes/20251022-controle-big-brother-evolution/","dgPassFrontmatter":true}
 ---
 
 La société dystopique imaginée par George Orwell dans _1984_ semble désormais une réalité. Les États ne sont plus les seuls à exercer une surveillance : que ce soit à travers le projet de facture électronique en France, ou des applications comme Max en Russie et WeChat en Chine, la collecte de nos données personnelles s’est généralisée. 

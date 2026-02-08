@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251116 - Plateforme numérique - oligopole - construction - effets.md","permalink":"/notes-permanentes/20251116-plateforme-numerique-oligopole-construction-effets/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-10T11:00","Updated":"2025-11-25T19:49","dg-path":"Notes permanentes/20251116 - Plateforme numérique - oligopole - construction - effets.md","permalink":"/notes-permanentes/20251116-plateforme-numerique-oligopole-construction-effets/","dgPassFrontmatter":true}
 ---
 
 Si la Silicon Valley incarne l’épicentre de l’innovation technologique, elle peine en revanche à faire preuve d’originalité dans sa gestion de la concurrence face aux nouvelles avancées. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses.md","permalink":"/notes-permanentes/20251029-reseaux-sociaux-declin-analyses/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-30T19:57","dg-path":"Notes permanentes/20251029 - Réseaux sociaux - déclin - analyses.md","permalink":"/notes-permanentes/20251029-reseaux-sociaux-declin-analyses/","dgPassFrontmatter":true}
 ---
 
 Le _Financial Times_ du 3 octobre 2025 annonce un tournant : après un pic historique en 2022, l’utilisation des réseaux sociaux recule notamment chez les 16-24 ans (sauf aux États-Unis, où elle progresse encore de 15 %). Pour les autres tranches d’âge, la courbe se stabilise, signe d’un désamour croissant.

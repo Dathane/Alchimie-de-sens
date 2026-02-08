@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251108 - Biais cognitifs - biais rétrospectif.md","permalink":"/notes-permanentes/20251108-biais-cognitifs-biais-retrospectif/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T17:35","Updated":"2025-11-06T13:35","dg-path":"Notes permanentes/20251108 - Biais cognitifs - biais rétrospectif.md","permalink":"/notes-permanentes/20251108-biais-cognitifs-biais-retrospectif/","dgPassFrontmatter":true}
 ---
 
 Le biais rétrospectif se manifeste par une tendance à réinterpréter les événements passés à la lumière des informations dont nous disposons aujourd’hui. 

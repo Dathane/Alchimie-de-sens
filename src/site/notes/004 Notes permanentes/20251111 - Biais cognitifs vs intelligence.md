@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251111 - Biais cognitifs vs intelligence.md","permalink":"/notes-permanentes/20251111-biais-cognitifs-vs-intelligence/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T18:01","Updated":"2025-11-06T13:32","dg-path":"Notes permanentes/20251111 - Biais cognitifs vs intelligence.md","permalink":"/notes-permanentes/20251111-biais-cognitifs-vs-intelligence/","dgPassFrontmatter":true}
 ---
 
 Un QI élevé ne protège en rien des biais cognitifs. 

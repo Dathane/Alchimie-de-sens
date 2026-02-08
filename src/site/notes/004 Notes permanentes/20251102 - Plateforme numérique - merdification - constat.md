@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251102 - Plateforme numérique - merdification - constat.md","permalink":"/notes-permanentes/20251102-plateforme-numerique-merdification-constat/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-01T17:47","Updated":"2025-11-27T13:26","dg-path":"Notes permanentes/20251102 - Plateforme numérique - merdification - constat.md","permalink":"/notes-permanentes/20251102-plateforme-numerique-merdification-constat/","dgPassFrontmatter":true}
 ---
 
 Le terme d’« enshittification », popularisé par Cory Doctorow dans son essai _« Enshittification: Why Everything Suddenly Got Worse and What to Do About It »_, décrit un phénomène que chacun peut observer. Il s’agit de la dégradation délibérée des plateformes numériques et des réseaux sociaux, une fois qu’ils ont atteint une position dominante.

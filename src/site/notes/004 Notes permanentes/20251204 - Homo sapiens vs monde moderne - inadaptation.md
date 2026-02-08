@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251204 - Homo sapiens vs monde moderne - inadaptation.md","permalink":"/notes-permanentes/20251204-homo-sapiens-vs-monde-moderne-inadaptation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-29T17:19","Updated":"2025-11-29T17:34","dg-path":"Notes permanentes/20251204 - Homo sapiens vs monde moderne - inadaptation.md","permalink":"/notes-permanentes/20251204-homo-sapiens-vs-monde-moderne-inadaptation/","dgPassFrontmatter":true}
 ---
 
 Certaines études suggèrent que le mode de vie des sociétés industrialisées est incompatible avec notre biologie. Adaptés à des stress ponctuels dans un environnement naturel, nous sommes aujourd’hui exposés à des stimuli constants (bruit, lumières), ainsi qu’à des perturbateurs (pesticides, microplastiques, aliments ultra-transformés), sources d’inconfort et de stress chronique.

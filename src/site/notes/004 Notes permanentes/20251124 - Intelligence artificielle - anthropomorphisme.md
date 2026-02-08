@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251124 - Intelligence artificielle - anthropomorphisme.md","permalink":"/notes-permanentes/20251124-intelligence-artificielle-anthropomorphisme/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-17T19:22","Updated":"2025-11-26T19:41","dg-path":"Notes permanentes/20251124 - Intelligence artificielle - anthropomorphisme.md","permalink":"/notes-permanentes/20251124-intelligence-artificielle-anthropomorphisme/","dgPassFrontmatter":true}
 ---
 
 Le concept d’Intelligence Artificielle émerge en 1956. 

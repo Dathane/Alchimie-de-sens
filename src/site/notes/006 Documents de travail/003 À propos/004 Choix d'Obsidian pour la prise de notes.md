@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/004 Choix d'Obsidian pour la prise de notes.md","permalink":"/a-propos/004-choix-d-obsidian-pour-la-prise-de-notes/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T19:07","Updated":"2025-10-30T08:03","dg-path":"À propos/004 Choix d'Obsidian pour la prise de notes.md","permalink":"/a-propos/004-choix-d-obsidian-pour-la-prise-de-notes/","dgPassFrontmatter":true}
 ---
 
 **Vingt ans de quête : à la recherche de l’outil de prise de notes idéal**

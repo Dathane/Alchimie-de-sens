@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251123 - Spiritueux sans alcool - confusion - règlementation.md","permalink":"/notes-permanentes/20251123-spiritueux-sans-alcool-confusion-reglementation/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-16T11:43","Updated":"2025-11-26T09:01","dg-path":"Notes permanentes/20251123 - Spiritueux sans alcool - confusion - règlementation.md","permalink":"/notes-permanentes/20251123-spiritueux-sans-alcool-confusion-reglementation/","dgPassFrontmatter":true}
 ---
 
 Après des années de confusion et de détournements, l’expression « spiritueux sans alcool » est désormais interdite. 

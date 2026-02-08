@@ -1,5 +1,5 @@
 ---
-{"tags":null,"dg-publish":true,"dg-path":"Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines.md","permalink":"/notes-permanentes/20240121-spiritueux-craft-distilleries-americaines/","dgPassFrontmatter":true}
+{"tags":null,"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-26T17:33","dg-path":"Notes permanentes/20240121 - Spiritueux - craft - distilleries américaines.md","permalink":"/notes-permanentes/20240121-spiritueux-craft-distilleries-americaines/","dgPassFrontmatter":true}
 ---
 
 Les États-Unis abritent près de 2 800 distilleries, dominées en nombre par la Californie, où l'on observe une forte augmentation de la production d'agave, et le Kentucky, berceau du Bourbon. (1)

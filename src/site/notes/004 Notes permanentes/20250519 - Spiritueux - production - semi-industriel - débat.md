@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20250519 - Spiritueux - production - semi-industriel - débat.md","permalink":"/notes-permanentes/20250519-spiritueux-production-semi-industriel-debat/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-27T11:05","dg-path":"Notes permanentes/20250519 - Spiritueux - production - semi-industriel - débat.md","permalink":"/notes-permanentes/20250519-spiritueux-production-semi-industriel-debat/","dgPassFrontmatter":true}
 ---
 
 La production de spiritueux est parfois décrite comme semi-industrielle, car elle se situe entre les approches artisanale et industrielle. Cependant, cette qualification reste imprécise et source de confusion.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251203 - Biais cognitifs - effet de l'apparence.md","permalink":"/notes-permanentes/20251203-biais-cognitifs-effet-de-l-apparence/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-29T15:10","Updated":"2025-11-29T15:14","dg-path":"Notes permanentes/20251203 - Biais cognitifs - effet de l'apparence.md","permalink":"/notes-permanentes/20251203-biais-cognitifs-effet-de-l-apparence/","dgPassFrontmatter":true}
 ---
 
 En 2025, le casse du Louvre illustre la tendance du cerveau à interpréter les apparences comme normales pour éviter l’alerte. Les voleurs, bien que visibles (une grue, des chasubles fluo), ont été perçus comme des ouvriers en intervention sur la voirie. 

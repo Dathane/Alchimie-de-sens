@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251105 - Captologie - généralités.md","permalink":"/notes-permanentes/20251105-captologie-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-02T19:46","Updated":"2025-11-29T17:40","dg-path":"Notes permanentes/20251105 - Captologie - généralités.md","permalink":"/notes-permanentes/20251105-captologie-generalites/","dgPassFrontmatter":true}
 ---
 
 La captologie, ou l’art de capter l’attention, émerge en 1998 au sein de l’Université de Stanford, sous l’impulsion de B.J. Fogg. Ce dernier fonde alors le _Persuasive Technology Lab_, inspiré par une observation marquante : les adolescents, attirés par la compétition (notamment à travers le jeu), privilégient les interactions avec le monde numérique — perçu comme sans danger — à celles du monde réel.

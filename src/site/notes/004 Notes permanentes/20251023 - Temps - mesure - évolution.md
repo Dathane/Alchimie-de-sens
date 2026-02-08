@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251023 - Temps - mesure - évolution.md","permalink":"/notes-permanentes/20251023-temps-mesure-evolution/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251023 - Temps - mesure - évolution.md","permalink":"/notes-permanentes/20251023-temps-mesure-evolution/","dgPassFrontmatter":true}
 ---
 
 Chaque époque a façonné sa propre mesure du temps, reflétant ses priorités et ses technologies. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251118 - Internet - de la société d'information à l'économie de l'attention.md","permalink":"/notes-permanentes/20251118-internet-de-la-societe-d-information-a-l-economie-de-l-attention/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-10T20:14","Updated":"2025-11-30T19:52","dg-path":"Notes permanentes/20251118 - Internet - de la société d'information à l'économie de l'attention.md","permalink":"/notes-permanentes/20251118-internet-de-la-societe-d-information-a-l-economie-de-l-attention/","dgPassFrontmatter":true}
 ---
 
 Internet s’est transformé au fil des décennies, marquant chaque étape par une évolution majeure.

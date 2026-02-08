@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20240719 - Terroir - définition - typicité.md","permalink":"/notes-permanentes/20240719-terroir-definition-typicite/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:38","Updated":"2026-01-04T10:36","dg-path":"Notes permanentes/20240719 - Terroir - définition - typicité.md","permalink":"/notes-permanentes/20240719-terroir-definition-typicite/","dgPassFrontmatter":true}
 ---
 
 Selon @chouvy2022, la typicité est un facteur essentiel de discrimination des terroirs. Il s'appuie sur la définition de @casabianca2011.

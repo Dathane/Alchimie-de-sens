@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20240221 - Economie comportementale - généralités.md","permalink":"/notes-permanentes/20240221-economie-comportementale-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-03T18:18","dg-path":"Notes permanentes/20240221 - Economie comportementale - généralités.md","permalink":"/notes-permanentes/20240221-economie-comportementale-generalites/","dgPassFrontmatter":true}
 ---
 
 À la croisée de l’économie et de la psychologie, l’économie comportementale remet en cause un postulat central de la théorie classique : celui d’un individu parfaitement rationnel, toujours en quête de maximiser son utilité. 

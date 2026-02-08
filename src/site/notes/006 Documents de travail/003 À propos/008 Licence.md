@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/008 Licence.md","permalink":"/a-propos/008-licence/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T19:06","Updated":"2025-10-29T11:08","dg-path":"À propos/008 Licence.md","permalink":"/a-propos/008-licence/","dgPassFrontmatter":true}
 ---
 
 Ce blog est un espace de partage sans but lucratif. Son contenu — articles, réflexions, figures et dessins — est le fruit de mon travail ou de collaborations. Libre d’accès, il ne saurait pour autant être reproduit ou diffusé sans mention claire de sa source.

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités.md","permalink":"/notes-permanentes/20251106-biais-cognitifs-erreur-fondamentale-d-attribution-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T17:32","Updated":"2025-11-06T13:39","dg-path":"Notes permanentes/20251106 - Biais cognitifs - erreur fondamentale d'attribution - généralités.md","permalink":"/notes-permanentes/20251106-biais-cognitifs-erreur-fondamentale-d-attribution-generalites/","dgPassFrontmatter":true}
 ---
 
 L’erreur fondamentale d’attribution nous pousse à interpréter les actions d’autrui comme le reflet de leur personnalité, plutôt que comme le résultat de circonstances extérieures. 

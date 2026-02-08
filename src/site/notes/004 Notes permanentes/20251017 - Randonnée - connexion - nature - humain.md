@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251017 - Randonnée - connexion - nature - humain.md","permalink":"/notes-permanentes/20251017-randonnee-connexion-nature-humain/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:17","dg-path":"Notes permanentes/20251017 - Randonnée - connexion - nature - humain.md","permalink":"/notes-permanentes/20251017-randonnee-connexion-nature-humain/","dgPassFrontmatter":true}
 ---
 
 Depuis des millénaires, la marche en pleine nature fait partie intégrante de notre héritage nomade. 

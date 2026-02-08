@@ -1,5 +1,5 @@
 ---
-{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"dg-path":"Notes permanentes/20251015 - Information - chef d'entreprises.md","permalink":"/notes-permanentes/20251015-information-chef-d-entreprises/","dgPassFrontmatter":true}
+{"tags":["formation/CERFRANCE_Information"],"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:29","dg-path":"Notes permanentes/20251015 - Information - chef d'entreprises.md","permalink":"/notes-permanentes/20251015-information-chef-d-entreprises/","dgPassFrontmatter":true}
 ---
 
 Un chef d’entreprise doit maîtriser à la fois des **informations internes** (données financières, coûts, commerciales, RH) et des **données externes** (marchés, réglementation, concurrence, technologie). Cette double exigence représente un volume d’informations considérable et un coût cognitif élevé.

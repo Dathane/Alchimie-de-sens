@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20260121 - Spiritueux - style vs nouveautés - analogie monde moderne.md","permalink":"/notes-permanentes/20260121-spiritueux-style-vs-nouveautes-analogie-monde-moderne/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2026-01-14T08:17","Updated":"2026-01-14T08:38","dg-path":"Notes permanentes/20260121 - Spiritueux - style vs nouveautés - analogie monde moderne.md","permalink":"/notes-permanentes/20260121-spiritueux-style-vs-nouveautes-analogie-monde-moderne/","dgPassFrontmatter":true}
 ---
 
 Comme le souligne Ch. Lambert, les marques de spiritueux se trouvent aujourd’hui tiraillées entre une course effrénée à la nouveauté et l’exigence d’inscrire un style dans la durée.

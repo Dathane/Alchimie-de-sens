@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251104 - Nudge - généralités.md","permalink":"/notes-permanentes/20251104-nudge-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-03T18:19","Updated":"2025-11-06T13:42","dg-path":"Notes permanentes/20251104 - Nudge - généralités.md","permalink":"/notes-permanentes/20251104-nudge-generalites/","dgPassFrontmatter":true}
 ---
 
 Littéralement _« coup de pouce »_ (et non « coup de coude »), le nudge — aussi appelé paternalisme libertarien — est une notion développée par Richard Thaler (Prix Nobel d’économie en 2017) et Cass Sunstein (juriste à Harvard et ancien conseiller de Barack Obama).

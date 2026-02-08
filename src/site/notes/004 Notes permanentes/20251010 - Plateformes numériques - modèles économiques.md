@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251010 - Plateformes numériques - modèles économiques.md","permalink":"/notes-permanentes/20251010-plateformes-numeriques-modeles-economiques/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-10T20:13","dg-path":"Notes permanentes/20251010 - Plateformes numériques - modèles économiques.md","permalink":"/notes-permanentes/20251010-plateformes-numeriques-modeles-economiques/","dgPassFrontmatter":true}
 ---
 
 Le modèle économique des grandes plateformes numériques, notamment GAFAM, est basé sur l'économie de l'attention. 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251115 - Moteurs de recherche vs moteurs de réponses - analyse.md","permalink":"/notes-permanentes/20251115-moteurs-de-recherche-vs-moteurs-de-reponses-analyse/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-11-10T10:01","Updated":"2025-11-10T10:57","dg-path":"Notes permanentes/20251115 - Moteurs de recherche vs moteurs de réponses - analyse.md","permalink":"/notes-permanentes/20251115-moteurs-de-recherche-vs-moteurs-de-reponses-analyse/","dgPassFrontmatter":true}
 ---
 
 Christophe Deschamps, spécialiste reconnu de la veille informationnelle, souligne une transformation majeure : les moteurs de recherche traditionnels cèdent progressivement la place à des « moteurs de réponses », portés par l’intelligence artificielle (1). 

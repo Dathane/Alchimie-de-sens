@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251025 - Théorie du complot - influence des réseaux sociaux.md","permalink":"/notes-permanentes/20251025-theorie-du-complot-influence-des-reseaux-sociaux/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-30T10:47","dg-path":"Notes permanentes/20251025 - Théorie du complot - influence des réseaux sociaux.md","permalink":"/notes-permanentes/20251025-theorie-du-complot-influence-des-reseaux-sociaux/","dgPassFrontmatter":true}
 ---
 
 L’essor des réseaux sociaux a offert aux théories complotistes (chercher une explication par un complot) et conspirationnistes (considérer que tout est complot) une caisse de résonance sans précédent. Autrefois, adhérer à des récits alternatifs exposait les individus à un isolement social marqué. Aujourd’hui, grâce à l’influence des algorithmes, ces contenus — souvent fondés sur une vision simpliste mais rassurante du monde — sont systématiquement mis en avant, car ils suscitent des réactions vives (pour ou contre), générant ainsi des données monétisables à grande échelle.

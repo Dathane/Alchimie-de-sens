@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"tags":null,"dg-path":"Notes permanentes/20260102 - Organisation - images.md","permalink":"/notes-permanentes/20260102-organisation-images/","dgPassFrontmatter":true}
+{"dg-publish":true,"tags":null,"Created":"2025-12-22T10:40","Updated":"2026-01-02T11:23","dg-path":"Notes permanentes/20260102 - Organisation - images.md","permalink":"/notes-permanentes/20260102-organisation-images/","dgPassFrontmatter":true}
 ---
 
 Les métaphores aident à comprendre la complexité des organisations et leur impact sur leur environnement interne et externe.

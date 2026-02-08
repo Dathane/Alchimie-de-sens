@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251028 - Entreprise - évaluation -  boussole stratégique.md","permalink":"/notes-permanentes/20251028-entreprise-evaluation-boussole-strategique/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-02T20:16","dg-path":"Notes permanentes/20251028 - Entreprise - évaluation -  boussole stratégique.md","permalink":"/notes-permanentes/20251028-entreprise-evaluation-boussole-strategique/","dgPassFrontmatter":true}
 ---
 
 Selon Seth Godin, l’évaluation des entreprises peut s’appuyer sur une matrice simple , croisant deux variables clés : **la taille de l’entreprise et l’âge de son secteur d’activité.** Cette approche permet non seulement de comprendre la position stratégique d’une organisation, mais aussi d’identifier les leviers d’action prioritaires pour assurer sa pérennité.

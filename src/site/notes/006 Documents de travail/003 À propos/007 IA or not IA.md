@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"À propos/007 IA or not IA.md","permalink":"/a-propos/007-ia-or-not-ia/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-28T20:11","Updated":"2025-10-29T13:36","dg-path":"À propos/007 IA or not IA.md","permalink":"/a-propos/007-ia-or-not-ia/","dgPassFrontmatter":true}
 ---
 
 La plupart de ces notes naissent d’une collaboration inattendue, mais précieuse : celle avec [Le Chat de Mistral](https://chat.mistral.ai/chat), l’alternative française à un autre assistant conversationnel bien connu (Chat GPT). 

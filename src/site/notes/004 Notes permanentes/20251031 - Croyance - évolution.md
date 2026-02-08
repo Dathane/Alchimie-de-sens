@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20251031 - Croyance - évolution.md","permalink":"/notes-permanentes/20251031-croyance-evolution/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-25T11:42","Updated":"2025-11-30T19:47","dg-path":"Notes permanentes/20251031 - Croyance - évolution.md","permalink":"/notes-permanentes/20251031-croyance-evolution/","dgPassFrontmatter":true}
 ---
 
 Le CNRTL définit la croyance comme « une certitude, plus ou moins grande par laquelle l'esprit admet la vérité ou la réalité de quelque chose." Il s'agit aussi de "l'adhésion de l'esprit qui, sans être entièrement rationnelle, exclut le doute et comporte une part de conviction personnelle, de persuasion intime." 

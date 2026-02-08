@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20230203 - Luxe - relation avec le temps.md","permalink":"/notes-permanentes/20230203-luxe-relation-avec-le-temps/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-06T13:46","dg-path":"Notes permanentes/20230203 - Luxe - relation avec le temps.md","permalink":"/notes-permanentes/20230203-luxe-relation-avec-le-temps/","dgPassFrontmatter":true}
 ---
 
 Le luxe, par essence, se doit d’être intemporel. 
@@ -19,7 +19,7 @@ Mais cette logique interroge : le luxe peut-il vraiment se contenter de vendre d
 
 #### Références/ Inspirations
 1. [[003 Litterature/Veille/charentelibre.fr-Martell célèbre lannée du lapin avec un cognac dexception\|charentelibre.fr-Martell célèbre lannée du lapin avec un cognac dexception]]
-2. [[vl-media.fr-Cest quoi 100 years ce film que personne ne verra en salles.pdf]]
+2. [vl-media.fr-Cest quoi 100 years ce film que personne ne verra en salles.pdf](/img/user/001%20Sources/Veille/vl-media.fr-Cest%20quoi%20100%20years%20ce%20film%20que%20personne%20ne%20verra%20en%20salles.pdf)
 3. [[003 Litterature/Veille/avis-vin.lefigaro.fr-César Giron PDG du cognac Martell Notre métier est aussi de vendre du temps le vrai marqueur du luxe\|avis-vin.lefigaro.fr-César Giron PDG du cognac Martell Notre métier est aussi de vendre du temps le vrai marqueur du luxe]]
 4. [[003 Litterature/Veille/slate.fr-Dans quoi les personnes les plus riches du monde ont-elles dépensé leur argent lannée dernière\|slate.fr-Dans quoi les personnes les plus riches du monde ont-elles dépensé leur argent lannée dernière]]
 #### Liens

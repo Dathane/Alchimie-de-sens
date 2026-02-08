@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20250224 - Qualité - bien d'expérience - qualité réelle - travail.md","permalink":"/notes-permanentes/20250224-qualite-bien-d-experience-qualite-reelle-travail/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:55","Updated":"2025-11-02T20:15","dg-path":"Notes permanentes/20250224 - Qualité - bien d'expérience - qualité réelle - travail.md","permalink":"/notes-permanentes/20250224-qualite-bien-d-experience-qualite-reelle-travail/","dgPassFrontmatter":true}
 ---
 
 Dans le cas des biens d'expérience, le travail de la qualité réelle n'a de sens que si la qualité perçue est suffisante pour que le consommateur ait envie d'acheter.

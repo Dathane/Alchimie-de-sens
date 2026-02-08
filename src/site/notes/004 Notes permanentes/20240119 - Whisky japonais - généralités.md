@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"dg-path":"Notes permanentes/20240119 - Whisky japonais - généralités.md","permalink":"/notes-permanentes/20240119-whisky-japonais-generalites/","dgPassFrontmatter":true}
+{"dg-publish":true,"Created":"2025-10-30T08:35","Updated":"2025-11-26T08:28","dg-path":"Notes permanentes/20240119 - Whisky japonais - généralités.md","permalink":"/notes-permanentes/20240119-whisky-japonais-generalites/","dgPassFrontmatter":true}
 ---
 
 En 2023, le whisky japonais célèbre son centenaire, marqué par la fondation de la distillerie Yamazaki à Kyoto. Cette région est connue pour la qualité de son eau, un élément clé dans la production de whisky, qui avait déjà séduit un célèbre maître de thé. Une preuve de son prestige : en 2020, une bouteille de Yamazaki s’est vendue aux enchères pour près de 800 000 dollars.
@@ -15,7 +15,7 @@ Malgré ce dynamisme, des défis persistent, comme la protection de sa réputati
 
 #### Références/ Inspirations
 1. [[003 Litterature/Veille/avis-vin.lefigaro.fr-Les Écossais veulent reproduire le même goût nous essayons de toujours faire mieux comment définir le style des whiskys japonais\|avis-vin.lefigaro.fr-Les Écossais veulent reproduire le même goût nous essayons de toujours faire mieux comment définir le style des whiskys japonais]]
-2. [[challenges.fr-Le whisky japonais victime de son succès un siècle après sa naissance.pdf]]
+2. [challenges.fr-Le whisky japonais victime de son succès un siècle après sa naissance.pdf](/img/user/001%20Sources/Veille/challenges.fr-Le%20whisky%20japonais%20victime%20de%20son%20succ%C3%A8s%20un%20si%C3%A8cle%20apr%C3%A8s%20sa%20naissance.pdf)
 3. [[003 Litterature/Veille/courrierinternational.com-En dix ans les exportations de whiskys japonais ont été multipliées par 22\|courrierinternational.com-En dix ans les exportations de whiskys japonais ont été multipliées par 22]]
 #### Notes précédentes
 [94 -  Whisky - généralités](94%20-%20%20Whisky%20-%20généralités.md)
